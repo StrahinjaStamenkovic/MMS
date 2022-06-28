@@ -1,0 +1,11 @@
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\bin\Debug\CSharpFilters.exe
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\bin\Debug\CSharpFilters.pdb
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.ColorInput.resources
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.Form1.resources
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.GammaInput.resources
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.Parameter.resources
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.exe
+C:\Users\KORISNIK\Desktop\MMS\04 Bitmap (.NET)\Export\CSharpFilters\obj\Debug\CSharpFilters.pdb

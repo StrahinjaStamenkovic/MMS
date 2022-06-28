@@ -1,0 +1,101 @@
+1.2.0 Update
+
+# Significant UI performance improvements 
+# New "Band Solo" button
+# New settings dialog
+# Added support for custom snapmaps
+# Minor fixes and enhancements
+
+
+1.1.0 update
+
+# Attack and release ranges increased
+# Added EQ auto gain switch
+# UI performance substantially improved
+# Fixed wrong "greyed out" states
+# Various inline help corrections
+# Manual updated
+# Fixed rare PT related race-conditions
+# Mouse handling improved
+
+
+1.0.8 Maintenance update
+
+# Added product update lookup functionality (optional)
+# SOLO mode mouse handling fixes
+# Comboboxes can now be used like sliders
+# UI performance improved
+# Fixed a rare Window XP issue sometimes closing plugin host a fter a few hours
+# Fixed an "white UI" issue appearing in Renoise/mac/32bit
+# Minimal fixes
+
+
+1.0.7 Maintenance update
+
+# Added new 72dB/oct HP filter mode for (HP and LP)
+# Added "Save As Default Preset" function.
+# Create HP and LP bands via double click outside the audible band (dashed lines in display)
+# Better indication of SOLO state (band on/off buttons grey out accordingly)
+# UI Performance improved
+# Added experimental openGL renderer (see settings dialog)
+# Fixed a structural issue related to LP filtering
+# Minor fixes and improvements
+
+
+1.0.6 Maintenance update
+
+# UI Performance improved
+# Deactivation of band groups now possible (via the ON buttons)
+# Dragging band group in the analyzer while in band solo mode now possible
+# Fixed bug where the ratio knob appeared twice
+# Fixed minor graphical issues
+# Fixed bug related to Q and ORDER BY FREQ
+# RELEASE range increased (down to 10ms)
+# Mousewheel in SOLO mode corrected
+
+
+1.0.5 Hotfix update
+
+# UI Performance improved
+# Audible clicks related to filter type changes reduced
+# Fixed issue related to shift + double click
+
+
+1.0.4 Hotfix update
+
+# Fixed severe persitence issue (shame on us!)
+# Fixed various little mouse-handling issues
+
+
+1.0.3 Hotfix update
+
+# Solo band activation changed to CMD(i.e. CTRL) + SHIFT
+# Solo band doesn't mute audio anymore if no band is selected
+# Solo band autogain behaviour fixed
+# Analyzer mode no more affected by preset changes
+# Fixed delta for solo, Sum/Diff and Left/Right processing modes
+# Fixed threshold curve disapearing
+# Fixed bug related to preset handling and Q parameters
+# Fixed gfx refresh issues in some hosts (e.g. FL Studio)
+
+
+1.0.2 Hotfix update
+
+# Added support for SOLO band preview via CTRL/COMMAND
+# UI startup performance improved (audible clicks fixed)
+# Corrected attack of all dynamics sections (they were fixed to 1ms! sorry)
+# New HP/LP filter issues fixed
+# Fixed Protools soft-bypass ignoring DRYMIX and OUTGAIN 
+# Band selection via mouse-wheel disabled for "continuous motion" mouses
+
+
+1.0.1 Hotfix update
+
+# UI performance improved
+# HP/LP filter issues in ECO mode fixed
+# Attempt to fix a rare mousewheel "crash"
+
+
+1.0.0 Initial release
+
+

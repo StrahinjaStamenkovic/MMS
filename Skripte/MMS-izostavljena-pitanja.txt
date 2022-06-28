@@ -1,0 +1,27 @@
+*** Ukratko opisati proces konkatenacije dva WAV fajla sa potpuno istim sadrzajem
+
+Pocevši od 4. bajta nalazi se deo ChunkSize koji ima vrednost (36 + SubChunk2Size) - gde SubChunk2Size predstavlja dužinu samog data dela WAV fajla (ovde nisu uracunati metapodaci i ostali chunk podaci). 
+Od 12. do 36. bajta se nalaze podaci poput Format, Channel, Sample rate... i oni ostaju isti.
+Pocevši od 40. bajta nalazi se SubChunk2Size i on ima velicinu 4 bajta. To je zapravo dužina samog data dela. A od 44. bajta pa nadalje je sam data deo(podaci). 
+
+Postupak nadovezivanja je sledeci: 
+1. SubChunk2Size dobija velicinu SubChunk2Size * 2 (Ovde SubChunk2Size dobija velicinu duplo vecu)
+2. ChunkSize se ažurira tako što se postavi novi koji ima vrednost prethodnog + SubChunk2Size (jer su oba fajla iste dužine)
+3. Data deo posle 40. bajta se samo duplira.
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+*** Nedostaci gif formata
+Nije pogodan kao slika sa visokim nivoom detalja jer koristi LossLess kopmpresiju koja je efektna za slike koje imaju velike povrsine u istoj boji.
+Takodje GIF je 8bitni bitmap graficki prikaz sto predstavlja ogranicenje za moderni internet. Konvertovanjem izvornih bitmapa u  GIF se smanjuje broj nijansi sto dovodi do stepenastih prelaza pri pretapanju boja i gubitka finijih detalja. Stoga je GIF prikladniji za razne grafikone nego za fotografije.
+
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+*** Resize operacije
+
+Postoji LINEAR i BILINEAR resize operacija. U oba slucaja su nove dimenzije slike: nWidth, nHeight.Stara slika je objekat Bitmap bTemp. 
+Kreira se nova slika kao b = new Bitmap(nWidth,nHeight,bTemp.PixelFormat). Izracunaju se resize faktori: nXFactor=bTemp.Width/nWidth; nYFactor=bTemp.Height/nHeight; Svaki piksel u odredisnoj slici se racuna kao: 
+b.SetPixel(x,y,bTemp.GetPixel(x*nXFactor, y*nYFactor));
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+

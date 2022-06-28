@@ -1,0 +1,13 @@
+midi note 0x23 0x24 = BASS
+midi note 0x25 = RIMSHOT
+midi note 0x26 0x28 = SNARE
+midi note 0x27 = CLAP
+midi note 0x29 0x2B 0x2D = TOM HI
+midi note 0x2A 0x2C = HIHAT CLOSE
+midi note 0x2E = HIHAT OPEN
+midi note 0x2F 0x30 = TOM LOW
+midi note 0x31 = CONGA HI
+midi note 0x32 = CONGA LO
+midi note 0x33 = CABASA
+midi note 0x36 = TAMBOURINE
+midi note 0X38 = COWBELL

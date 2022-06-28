@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample1\UnsafeExample1\bin\Debug\UnsafeExample1.exe.config
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample1\UnsafeExample1\obj\Debug\UnsafeExample1.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample1\UnsafeExample1\bin\Debug\UnsafeExample1.exe
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample1\UnsafeExample1\bin\Debug\UnsafeExample1.pdb
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample1\UnsafeExample1\obj\Debug\UnsafeExample1.exe
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample1\UnsafeExample1\obj\Debug\UnsafeExample1.pdb

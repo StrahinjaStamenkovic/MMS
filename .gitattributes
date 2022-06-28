@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+Xfer.Records.Serum.7z filter=lfs diff=lfs merge=lfs -text
+Free VSTs.7z filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS_analyzer", "PS_analyzer.csproj", "{FA360F60-3464-4EC6-889A-9F068637919E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FA360F60-3464-4EC6-889A-9F068637919E}.Debug.ActiveCfg = Release|.NET
+		{FA360F60-3464-4EC6-889A-9F068637919E}.Debug.Build.0 = Release|.NET
+		{FA360F60-3464-4EC6-889A-9F068637919E}.Release.ActiveCfg = Release|.NET
+		{FA360F60-3464-4EC6-889A-9F068637919E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

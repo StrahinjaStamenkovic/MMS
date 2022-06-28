@@ -1,0 +1,9 @@
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\bin\Debug\TraceJPG.exe
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\bin\Debug\TraceJPG.pdb
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\obj\Debug\TraceJPG.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\obj\Debug\TraceJPG.Form1.resources
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\obj\Debug\TraceJPG.InfoForm.resources
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\obj\Debug\TraceJPG.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\obj\Debug\TraceJPG.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\obj\Debug\TraceJPG.exe
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\TraceJPG\TraceJPG\obj\Debug\TraceJPG.pdb

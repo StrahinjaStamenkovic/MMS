@@ -1,0 +1,12 @@
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample2\UnsafeExample2\bin\Debug\UnsafeExample2.exe.config
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample2\UnsafeExample2\bin\Debug\UnsafeExample2.exe
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample2\UnsafeExample2\bin\Debug\UnsafeExample2.pdb
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample2\UnsafeExample2\obj\Debug\UnsafeExample2.exe
+c:\users\petar\documents\visual studio 2013\Projects\UnsafeExample2\UnsafeExample2\obj\Debug\UnsafeExample2.pdb
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\UnsafeExample2\UnsafeExample2\bin\Debug\UnsafeExample2.exe.config
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\UnsafeExample2\UnsafeExample2\bin\Debug\UnsafeExample2.exe
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\UnsafeExample2\UnsafeExample2\bin\Debug\UnsafeExample2.pdb
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\UnsafeExample2\UnsafeExample2\obj\Debug\UnsafeExample2.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\UnsafeExample2\UnsafeExample2\obj\Debug\UnsafeExample2.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\UnsafeExample2\UnsafeExample2\obj\Debug\UnsafeExample2.exe
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\UnsafeExample2\UnsafeExample2\obj\Debug\UnsafeExample2.pdb

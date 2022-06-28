@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPEGBuilder1", "MPEGBuilder1\MPEGBuilder1.csproj", "{0E39B3E6-D5AC-4550-AD66-4F60F5971730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPEGBuilder1UI", "MPEGBuilder1UI\MPEGBuilder1UI.csproj", "{57C39944-4678-4511-A49B-0BDFDE9F93B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapImage", "BitmapImage\BitmapImage.csproj", "{DC8AF2D4-537C-45DD-BD1C-CD816E564976}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+		{0E39B3E6-D5AC-4550-AD66-4F60F5971730}.0 = {DC8AF2D4-537C-45DD-BD1C-CD816E564976}
+		{0E39B3E6-D5AC-4550-AD66-4F60F5971730}.1 = {57C39944-4678-4511-A49B-0BDFDE9F93B5}
+		{57C39944-4678-4511-A49B-0BDFDE9F93B5}.0 = {DC8AF2D4-537C-45DD-BD1C-CD816E564976}
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0E39B3E6-D5AC-4550-AD66-4F60F5971730}.Debug.ActiveCfg = Debug|.NET
+		{0E39B3E6-D5AC-4550-AD66-4F60F5971730}.Debug.Build.0 = Debug|.NET
+		{0E39B3E6-D5AC-4550-AD66-4F60F5971730}.Release.ActiveCfg = Release|.NET
+		{0E39B3E6-D5AC-4550-AD66-4F60F5971730}.Release.Build.0 = Release|.NET
+		{57C39944-4678-4511-A49B-0BDFDE9F93B5}.Debug.ActiveCfg = Debug|.NET
+		{57C39944-4678-4511-A49B-0BDFDE9F93B5}.Debug.Build.0 = Debug|.NET
+		{57C39944-4678-4511-A49B-0BDFDE9F93B5}.Release.ActiveCfg = Release|.NET
+		{57C39944-4678-4511-A49B-0BDFDE9F93B5}.Release.Build.0 = Release|.NET
+		{DC8AF2D4-537C-45DD-BD1C-CD816E564976}.Debug.ActiveCfg = Debug|.NET
+		{DC8AF2D4-537C-45DD-BD1C-CD816E564976}.Debug.Build.0 = Debug|.NET
+		{DC8AF2D4-537C-45DD-BD1C-CD816E564976}.Release.ActiveCfg = Release|.NET
+		{DC8AF2D4-537C-45DD-BD1C-CD816E564976}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

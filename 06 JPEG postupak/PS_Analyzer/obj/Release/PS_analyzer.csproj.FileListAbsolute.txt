@@ -1,0 +1,7 @@
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\PS_Analyzer\bin\Release\PS_analyzer.exe
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\PS_Analyzer\obj\Release\PS_analyzer.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\PS_Analyzer\obj\Release\PS_analyzer.ps_analyzer.resources
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\PS_Analyzer\obj\Release\PS_analyzer.search.resources
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\PS_Analyzer\obj\Release\PS_analyzer.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\PS_Analyzer\obj\Release\PS_analyzer.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Desktop\MMS\06 JPEG postupak\PS_Analyzer\obj\Release\PS_analyzer.exe

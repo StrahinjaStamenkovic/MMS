@@ -1,0 +1,2592 @@
+This file list the packets found in G:\Multimedia-Nastava\Cas7\WhatBox_MPEG2_360x240_q11.mpg
+
+PACK header 		nr. 1		Size :	14 bytes	SCR = 333,541666666667
+System header 		nr. 1		Size :	18 bytes
+Audio PES 		nr. 1		Size :	8210 bytes	PTS = 333,533333333333	 DTS = 333,533333333333
+PACK header 		nr. 2		Size :	14 bytes	SCR = 667,08337037037
+Audio PES 		nr. 2		Size :	8210 bytes	PTS = 667,077777777778	 DTS = 667,077777777778
+PACK header 		nr. 3		Size :	14 bytes	SCR = 1000,625
+Audio PES 		nr. 3		Size :	8210 bytes	PTS = 1000,62222222222	 DTS = 1000,62222222222
+PACK header 		nr. 4		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 1		Size :	3834 bytes	PTS = 0	 DTS = 0
+PACK header 		nr. 5		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 2		Size :	5246 bytes	PTS = 33,3666666666667	 DTS = 33,3666666666667
+PACK header 		nr. 6		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 3		Size :	206 bytes	PTS = 66,7333333333333	 DTS = 66,7333333333333
+PACK header 		nr. 7		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 4		Size :	1270 bytes	PTS = 100,1	 DTS = 100,1
+PACK header 		nr. 8		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 5		Size :	1546 bytes	PTS = 133,466666666667	 DTS = 133,466666666667
+PACK header 		nr. 9		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 6		Size :	1350 bytes	PTS = 166,833333333333	 DTS = 166,833333333333
+PACK header 		nr. 10		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 7		Size :	1314 bytes	PTS = 200,2	 DTS = 200,2
+PACK header 		nr. 11		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 8		Size :	1850 bytes	PTS = 233,566666666667	 DTS = 233,566666666667
+PACK header 		nr. 12		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 9		Size :	1546 bytes	PTS = 266,933333333333	 DTS = 266,933333333333
+PACK header 		nr. 13		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 10		Size :	1342 bytes	PTS = 300,3	 DTS = 300,3
+PACK header 		nr. 14		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 11		Size :	1454 bytes	PTS = 333,666666666667	 DTS = 333,666666666667
+PACK header 		nr. 15		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 12		Size :	1258 bytes	PTS = 367,033333333333	 DTS = 367,033333333333
+PACK header 		nr. 16		Size :	14 bytes	SCR = 1000,625
+Video PES 		nr. 13		Size :	1238 bytes	PTS = 400,4	 DTS = 400,4
+PACK header 		nr. 17		Size :	14 bytes	SCR = 1367,52088888889
+Audio PES 		nr. 4		Size :	8210 bytes	PTS = 1367,51111111111	 DTS = 1367,51111111111
+PACK header 		nr. 18		Size :	14 bytes	SCR = 1701,06248148148
+Audio PES 		nr. 5		Size :	8210 bytes	PTS = 1701,05555555556	 DTS = 1701,05555555556
+PACK header 		nr. 19		Size :	14 bytes	SCR = 2034,60418518519
+Audio PES 		nr. 6		Size :	8210 bytes	PTS = 2034,6	 DTS = 2034,6
+PACK header 		nr. 20		Size :	14 bytes	SCR = 2368,14588888889
+Audio PES 		nr. 7		Size :	8210 bytes	PTS = 2368,14444444444	 DTS = 2368,14444444444
+PACK header 		nr. 21		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 14		Size :	6490 bytes	PTS = 433,766666666667	 DTS = 433,766666666667
+PACK header 		nr. 22		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 15		Size :	1150 bytes	PTS = 467,133333333333	 DTS = 467,133333333333
+PACK header 		nr. 23		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 16		Size :	1114 bytes	PTS = 500,5	 DTS = 500,5
+PACK header 		nr. 24		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 17		Size :	1206 bytes	PTS = 533,866666666667	 DTS = 533,866666666667
+PACK header 		nr. 25		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 18		Size :	1022 bytes	PTS = 567,233333333333	 DTS = 567,233333333333
+PACK header 		nr. 26		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 19		Size :	1250 bytes	PTS = 600,6	 DTS = 600,6
+PACK header 		nr. 27		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 20		Size :	1310 bytes	PTS = 633,966666666667	 DTS = 633,966666666667
+PACK header 		nr. 28		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 21		Size :	1070 bytes	PTS = 667,333333333333	 DTS = 667,333333333333
+PACK header 		nr. 29		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 22		Size :	1082 bytes	PTS = 700,7	 DTS = 700,7
+PACK header 		nr. 30		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 23		Size :	1598 bytes	PTS = 734,066666666667	 DTS = 734,066666666667
+PACK header 		nr. 31		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 24		Size :	1214 bytes	PTS = 767,433333333333	 DTS = 767,433333333333
+PACK header 		nr. 32		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 25		Size :	1198 bytes	PTS = 800,8	 DTS = 800,8
+PACK header 		nr. 33		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 26		Size :	1630 bytes	PTS = 834,166666666667	 DTS = 834,166666666667
+PACK header 		nr. 34		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 27		Size :	1258 bytes	PTS = 867,533333333333	 DTS = 867,533333333333
+PACK header 		nr. 35		Size :	14 bytes	SCR = 2368,14588888889
+Video PES 		nr. 28		Size :	1230 bytes	PTS = 900,9	 DTS = 900,9
+PACK header 		nr. 36		Size :	14 bytes	SCR = 2735,04166666667
+Audio PES 		nr. 8		Size :	8210 bytes	PTS = 2735,03333333333	 DTS = 2735,03333333333
+PACK header 		nr. 37		Size :	14 bytes	SCR = 3068,58337037037
+Audio PES 		nr. 9		Size :	8210 bytes	PTS = 3068,57777777778	 DTS = 3068,57777777778
+PACK header 		nr. 38		Size :	14 bytes	SCR = 3402,125
+Audio PES 		nr. 10		Size :	8210 bytes	PTS = 3402,12222222222	 DTS = 3402,12222222222
+PACK header 		nr. 39		Size :	14 bytes	SCR = 3735,66666666667
+Audio PES 		nr. 11		Size :	8210 bytes	PTS = 3735,66666666667	 DTS = 3735,66666666667
+PACK header 		nr. 40		Size :	14 bytes	SCR = 4102,56248148148
+Audio PES 		nr. 12		Size :	8210 bytes	PTS = 4102,55555555556	 DTS = 4102,55555555556
+PACK header 		nr. 41		Size :	14 bytes	SCR = 4436,10418518519
+Audio PES 		nr. 13		Size :	8210 bytes	PTS = 4436,1	 DTS = 4436,1
+PACK header 		nr. 42		Size :	14 bytes	SCR = 4769,64588888889
+Audio PES 		nr. 14		Size :	8210 bytes	PTS = 4769,64444444444	 DTS = 4769,64444444444
+PACK header 		nr. 43		Size :	14 bytes	SCR = 5103,18748148148
+Audio PES 		nr. 15		Size :	8210 bytes	PTS = 5103,17777777778	 DTS = 5103,17777777778
+PACK header 		nr. 44		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 29		Size :	6554 bytes	PTS = 934,266666666667	 DTS = 934,266666666667
+PACK header 		nr. 45		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 30		Size :	1158 bytes	PTS = 967,633333333333	 DTS = 967,633333333333
+PACK header 		nr. 46		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 31		Size :	1246 bytes	PTS = 1001	 DTS = 1001
+PACK header 		nr. 47		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 32		Size :	1430 bytes	PTS = 1034,36666666667	 DTS = 1034,36666666667
+PACK header 		nr. 48		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 33		Size :	1190 bytes	PTS = 1067,73333333333	 DTS = 1067,73333333333
+PACK header 		nr. 49		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 34		Size :	1330 bytes	PTS = 1101,1	 DTS = 1101,1
+PACK header 		nr. 50		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 35		Size :	1478 bytes	PTS = 1134,46666666667	 DTS = 1134,46666666667
+PACK header 		nr. 51		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 36		Size :	1218 bytes	PTS = 1167,83333333333	 DTS = 1167,83333333333
+PACK header 		nr. 52		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 37		Size :	1110 bytes	PTS = 1201,2	 DTS = 1201,2
+PACK header 		nr. 53		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 38		Size :	1386 bytes	PTS = 1234,56666666667	 DTS = 1234,56666666667
+PACK header 		nr. 54		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 39		Size :	1386 bytes	PTS = 1267,93333333333	 DTS = 1267,93333333333
+PACK header 		nr. 55		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 40		Size :	1226 bytes	PTS = 1301,3	 DTS = 1301,3
+PACK header 		nr. 56		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 41		Size :	1778 bytes	PTS = 1334,66666666667	 DTS = 1334,66666666667
+PACK header 		nr. 57		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 42		Size :	1322 bytes	PTS = 1368,03333333333	 DTS = 1368,03333333333
+PACK header 		nr. 58		Size :	14 bytes	SCR = 5103,18748148148
+Video PES 		nr. 43		Size :	1474 bytes	PTS = 1401,4	 DTS = 1401,4
+PACK header 		nr. 59		Size :	14 bytes	SCR = 5470,08337037037
+Audio PES 		nr. 16		Size :	8210 bytes	PTS = 5470,07777777778	 DTS = 5470,07777777778
+PACK header 		nr. 60		Size :	14 bytes	SCR = 5803,625
+Audio PES 		nr. 17		Size :	8210 bytes	PTS = 5803,62222222222	 DTS = 5803,62222222222
+PACK header 		nr. 61		Size :	14 bytes	SCR = 6137,16666666667
+Audio PES 		nr. 18		Size :	8210 bytes	PTS = 6137,16666666667	 DTS = 6137,16666666667
+PACK header 		nr. 62		Size :	14 bytes	SCR = 6470,70837037037
+Audio PES 		nr. 19		Size :	8210 bytes	PTS = 6470,7	 DTS = 6470,7
+PACK header 		nr. 63		Size :	14 bytes	SCR = 6837,60418518519
+Audio PES 		nr. 20		Size :	8210 bytes	PTS = 6837,6	 DTS = 6837,6
+PACK header 		nr. 64		Size :	14 bytes	SCR = 7171,14588888889
+Audio PES 		nr. 21		Size :	8210 bytes	PTS = 7171,14444444444	 DTS = 7171,14444444444
+PACK header 		nr. 65		Size :	14 bytes	SCR = 7504,68748148148
+Audio PES 		nr. 22		Size :	8210 bytes	PTS = 7504,67777777778	 DTS = 7504,67777777778
+PACK header 		nr. 66		Size :	14 bytes	SCR = 7838,22918518519
+Audio PES 		nr. 23		Size :	8210 bytes	PTS = 7838,22222222222	 DTS = 7838,22222222222
+PACK header 		nr. 67		Size :	14 bytes	SCR = 8205,125
+Audio PES 		nr. 24		Size :	8210 bytes	PTS = 8205,12222222222	 DTS = 8205,12222222222
+PACK header 		nr. 68		Size :	14 bytes	SCR = 8538,66666666667
+Audio PES 		nr. 25		Size :	8210 bytes	PTS = 8538,66666666667	 DTS = 8538,66666666667
+PACK header 		nr. 69		Size :	14 bytes	SCR = 8872,20837037037
+Audio PES 		nr. 26		Size :	8210 bytes	PTS = 8872,2	 DTS = 8872,2
+PACK header 		nr. 70		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 44		Size :	5558 bytes	PTS = 1434,76666666667	 DTS = 1434,76666666667
+PACK header 		nr. 71		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 45		Size :	1394 bytes	PTS = 1468,13333333333	 DTS = 1468,13333333333
+PACK header 		nr. 72		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 46		Size :	1362 bytes	PTS = 1501,5	 DTS = 1501,5
+PACK header 		nr. 73		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 47		Size :	1214 bytes	PTS = 1534,86666666667	 DTS = 1534,86666666667
+PACK header 		nr. 74		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 48		Size :	1278 bytes	PTS = 1568,23333333333	 DTS = 1568,23333333333
+PACK header 		nr. 75		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 49		Size :	1394 bytes	PTS = 1601,6	 DTS = 1601,6
+PACK header 		nr. 76		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 50		Size :	1166 bytes	PTS = 1634,96666666667	 DTS = 1634,96666666667
+PACK header 		nr. 77		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 51		Size :	1174 bytes	PTS = 1668,33333333333	 DTS = 1668,33333333333
+PACK header 		nr. 78		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 52		Size :	1242 bytes	PTS = 1701,7	 DTS = 1701,7
+PACK header 		nr. 79		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 53		Size :	1242 bytes	PTS = 1735,06666666667	 DTS = 1735,06666666667
+PACK header 		nr. 80		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 54		Size :	1366 bytes	PTS = 1768,43333333333	 DTS = 1768,43333333333
+PACK header 		nr. 81		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 55		Size :	1294 bytes	PTS = 1801,8	 DTS = 1801,8
+PACK header 		nr. 82		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 56		Size :	1454 bytes	PTS = 1835,16666666667	 DTS = 1835,16666666667
+PACK header 		nr. 83		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 57		Size :	1282 bytes	PTS = 1868,53333333333	 DTS = 1868,53333333333
+PACK header 		nr. 84		Size :	14 bytes	SCR = 8872,20837037037
+Video PES 		nr. 58		Size :	1410 bytes	PTS = 1901,9	 DTS = 1901,9
+PACK header 		nr. 85		Size :	14 bytes	SCR = 9205,75
+Audio PES 		nr. 27		Size :	8210 bytes	PTS = 9205,74444444444	 DTS = 9205,74444444444
+PACK header 		nr. 86		Size :	14 bytes	SCR = 9572,64588888889
+Audio PES 		nr. 28		Size :	8210 bytes	PTS = 9572,64444444444	 DTS = 9572,64444444444
+PACK header 		nr. 87		Size :	14 bytes	SCR = 9906,18748148148
+Audio PES 		nr. 29		Size :	8210 bytes	PTS = 9906,17777777778	 DTS = 9906,17777777778
+PACK header 		nr. 88		Size :	14 bytes	SCR = 10239,7291851852
+Audio PES 		nr. 30		Size :	8210 bytes	PTS = 10239,7222222222	 DTS = 10239,7222222222
+PACK header 		nr. 89		Size :	14 bytes	SCR = 10573,2708888889
+Audio PES 		nr. 31		Size :	8210 bytes	PTS = 10573,2666666667	 DTS = 10573,2666666667
+PACK header 		nr. 90		Size :	14 bytes	SCR = 10906,8124814815
+Audio PES 		nr. 32		Size :	8210 bytes	PTS = 10906,8111111111	 DTS = 10906,8111111111
+PACK header 		nr. 91		Size :	14 bytes	SCR = 11273,7083703704
+Audio PES 		nr. 33		Size :	8210 bytes	PTS = 11273,7	 DTS = 11273,7
+PACK header 		nr. 92		Size :	14 bytes	SCR = 11607,25
+Audio PES 		nr. 34		Size :	8210 bytes	PTS = 11607,2444444444	 DTS = 11607,2444444444
+PACK header 		nr. 93		Size :	14 bytes	SCR = 11940,7916666667
+Audio PES 		nr. 35		Size :	8210 bytes	PTS = 11940,7888888889	 DTS = 11940,7888888889
+PACK header 		nr. 94		Size :	14 bytes	SCR = 12274,3333703704
+Audio PES 		nr. 36		Size :	8210 bytes	PTS = 12274,3333333333	 DTS = 12274,3333333333
+PACK header 		nr. 95		Size :	14 bytes	SCR = 12607,875
+Audio PES 		nr. 37		Size :	8210 bytes	PTS = 12607,8666666667	 DTS = 12607,8666666667
+PACK header 		nr. 96		Size :	14 bytes	SCR = 12974,7708888889
+Audio PES 		nr. 38		Size :	8210 bytes	PTS = 12974,7666666667	 DTS = 12974,7666666667
+PACK header 		nr. 97		Size :	14 bytes	SCR = 13308,3124814815
+Audio PES 		nr. 39		Size :	8210 bytes	PTS = 13308,3111111111	 DTS = 13308,3111111111
+PACK header 		nr. 98		Size :	14 bytes	SCR = 13641,8541851852
+Audio PES 		nr. 40		Size :	8210 bytes	PTS = 13641,8444444444	 DTS = 13641,8444444444
+PACK header 		nr. 99		Size :	14 bytes	SCR = 13975,3958888889
+Audio PES 		nr. 41		Size :	8210 bytes	PTS = 13975,3888888889	 DTS = 13975,3888888889
+PACK header 		nr. 100		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 59		Size :	5390 bytes	PTS = 1935,26666666667	 DTS = 1935,26666666667
+PACK header 		nr. 101		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 60		Size :	1338 bytes	PTS = 1968,63333333333	 DTS = 1968,63333333333
+PACK header 		nr. 102		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 61		Size :	1310 bytes	PTS = 2002	 DTS = 2002
+PACK header 		nr. 103		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 62		Size :	1282 bytes	PTS = 2035,36666666667	 DTS = 2035,36666666667
+PACK header 		nr. 104		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 63		Size :	1246 bytes	PTS = 2068,73333333333	 DTS = 2068,73333333333
+PACK header 		nr. 105		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 64		Size :	1418 bytes	PTS = 2102,1	 DTS = 2102,1
+PACK header 		nr. 106		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 65		Size :	1070 bytes	PTS = 2135,46666666667	 DTS = 2135,46666666667
+PACK header 		nr. 107		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 66		Size :	1282 bytes	PTS = 2168,83333333333	 DTS = 2168,83333333333
+PACK header 		nr. 108		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 67		Size :	1138 bytes	PTS = 2202,2	 DTS = 2202,2
+PACK header 		nr. 109		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 68		Size :	1074 bytes	PTS = 2235,56666666667	 DTS = 2235,56666666667
+PACK header 		nr. 110		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 69		Size :	1234 bytes	PTS = 2268,93333333333	 DTS = 2268,93333333333
+PACK header 		nr. 111		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 70		Size :	1158 bytes	PTS = 2302,3	 DTS = 2302,3
+PACK header 		nr. 112		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 71		Size :	1170 bytes	PTS = 2335,66666666667	 DTS = 2335,66666666667
+PACK header 		nr. 113		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 72		Size :	1190 bytes	PTS = 2369,03333333333	 DTS = 2369,03333333333
+PACK header 		nr. 114		Size :	14 bytes	SCR = 13975,3958888889
+Video PES 		nr. 73		Size :	1194 bytes	PTS = 2402,4	 DTS = 2402,4
+PACK header 		nr. 115		Size :	14 bytes	SCR = 14342,2916666667
+Audio PES 		nr. 42		Size :	8210 bytes	PTS = 14342,2888888889	 DTS = 14342,2888888889
+PACK header 		nr. 116		Size :	14 bytes	SCR = 14675,8333703704
+Audio PES 		nr. 43		Size :	8210 bytes	PTS = 14675,8333333333	 DTS = 14675,8333333333
+PACK header 		nr. 117		Size :	14 bytes	SCR = 15009,375
+Audio PES 		nr. 44		Size :	8210 bytes	PTS = 15009,3666666667	 DTS = 15009,3666666667
+PACK header 		nr. 118		Size :	14 bytes	SCR = 15342,9166666667
+Audio PES 		nr. 45		Size :	8210 bytes	PTS = 15342,9111111111	 DTS = 15342,9111111111
+PACK header 		nr. 119		Size :	14 bytes	SCR = 15676,4583703704
+Audio PES 		nr. 46		Size :	8210 bytes	PTS = 15676,4555555556	 DTS = 15676,4555555556
+PACK header 		nr. 120		Size :	14 bytes	SCR = 16043,3541851852
+Audio PES 		nr. 47		Size :	8210 bytes	PTS = 16043,3444444444	 DTS = 16043,3444444444
+PACK header 		nr. 121		Size :	14 bytes	SCR = 16376,8958888889
+Audio PES 		nr. 48		Size :	8210 bytes	PTS = 16376,8888888889	 DTS = 16376,8888888889
+PACK header 		nr. 122		Size :	14 bytes	SCR = 16710,4374814815
+Audio PES 		nr. 49		Size :	8210 bytes	PTS = 16710,4333333333	 DTS = 16710,4333333333
+PACK header 		nr. 123		Size :	14 bytes	SCR = 17043,9791851852
+Audio PES 		nr. 50		Size :	8210 bytes	PTS = 17043,9777777778	 DTS = 17043,9777777778
+PACK header 		nr. 124		Size :	14 bytes	SCR = 17377,5208888889
+Audio PES 		nr. 51		Size :	8210 bytes	PTS = 17377,5111111111	 DTS = 17377,5111111111
+PACK header 		nr. 125		Size :	14 bytes	SCR = 17744,4166666667
+Audio PES 		nr. 52		Size :	8210 bytes	PTS = 17744,4111111111	 DTS = 17744,4111111111
+PACK header 		nr. 126		Size :	14 bytes	SCR = 18077,9583703704
+Audio PES 		nr. 53		Size :	8210 bytes	PTS = 18077,9555555556	 DTS = 18077,9555555556
+PACK header 		nr. 127		Size :	14 bytes	SCR = 18411,5
+Audio PES 		nr. 54		Size :	8210 bytes	PTS = 18411,5	 DTS = 18411,5
+PACK header 		nr. 128		Size :	14 bytes	SCR = 18745,0416666667
+Audio PES 		nr. 55		Size :	8210 bytes	PTS = 18745,0333333333	 DTS = 18745,0333333333
+PACK header 		nr. 129		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 74		Size :	5026 bytes	PTS = 2435,76666666667	 DTS = 2435,76666666667
+PACK header 		nr. 130		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 75		Size :	1174 bytes	PTS = 2469,13333333333	 DTS = 2469,13333333333
+PACK header 		nr. 131		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 76		Size :	1086 bytes	PTS = 2502,5	 DTS = 2502,5
+PACK header 		nr. 132		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 77		Size :	1082 bytes	PTS = 2535,86666666667	 DTS = 2535,86666666667
+PACK header 		nr. 133		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 78		Size :	1170 bytes	PTS = 2569,23333333333	 DTS = 2569,23333333333
+PACK header 		nr. 134		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 79		Size :	1182 bytes	PTS = 2602,6	 DTS = 2602,6
+PACK header 		nr. 135		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 80		Size :	1098 bytes	PTS = 2635,96666666667	 DTS = 2635,96666666667
+PACK header 		nr. 136		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 81		Size :	1130 bytes	PTS = 2669,33333333333	 DTS = 2669,33333333333
+PACK header 		nr. 137		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 82		Size :	1122 bytes	PTS = 2702,7	 DTS = 2702,7
+PACK header 		nr. 138		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 83		Size :	1102 bytes	PTS = 2736,06666666667	 DTS = 2736,06666666667
+PACK header 		nr. 139		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 84		Size :	1334 bytes	PTS = 2769,43333333333	 DTS = 2769,43333333333
+PACK header 		nr. 140		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 85		Size :	1162 bytes	PTS = 2802,8	 DTS = 2802,8
+PACK header 		nr. 141		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 86		Size :	1354 bytes	PTS = 2836,16666666667	 DTS = 2836,16666666667
+PACK header 		nr. 142		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 87		Size :	1334 bytes	PTS = 2869,53333333333	 DTS = 2869,53333333333
+PACK header 		nr. 143		Size :	14 bytes	SCR = 18745,0416666667
+Video PES 		nr. 88		Size :	1442 bytes	PTS = 2902,9	 DTS = 2902,9
+PACK header 		nr. 144		Size :	14 bytes	SCR = 19111,9374814815
+Audio PES 		nr. 56		Size :	8210 bytes	PTS = 19111,9333333333	 DTS = 19111,9333333333
+PACK header 		nr. 145		Size :	14 bytes	SCR = 19445,4791851852
+Audio PES 		nr. 57		Size :	8210 bytes	PTS = 19445,4777777778	 DTS = 19445,4777777778
+PACK header 		nr. 146		Size :	14 bytes	SCR = 19779,0208888889
+Audio PES 		nr. 58		Size :	8210 bytes	PTS = 19779,0111111111	 DTS = 19779,0111111111
+PACK header 		nr. 147		Size :	14 bytes	SCR = 20112,5624814815
+Audio PES 		nr. 59		Size :	8210 bytes	PTS = 20112,5555555556	 DTS = 20112,5555555556
+PACK header 		nr. 148		Size :	14 bytes	SCR = 20446,1041851852
+Audio PES 		nr. 60		Size :	8210 bytes	PTS = 20446,1	 DTS = 20446,1
+PACK header 		nr. 149		Size :	14 bytes	SCR = 20813
+Audio PES 		nr. 61		Size :	8210 bytes	PTS = 20813	 DTS = 20813
+PACK header 		nr. 150		Size :	14 bytes	SCR = 21146,5416666667
+Audio PES 		nr. 62		Size :	8210 bytes	PTS = 21146,5333333333	 DTS = 21146,5333333333
+PACK header 		nr. 151		Size :	14 bytes	SCR = 21480,0833703704
+Audio PES 		nr. 63		Size :	8210 bytes	PTS = 21480,0777777778	 DTS = 21480,0777777778
+PACK header 		nr. 152		Size :	14 bytes	SCR = 21813,625
+Audio PES 		nr. 64		Size :	8210 bytes	PTS = 21813,6222222222	 DTS = 21813,6222222222
+PACK header 		nr. 153		Size :	14 bytes	SCR = 22147,1666666667
+Audio PES 		nr. 65		Size :	8210 bytes	PTS = 22147,1666666667	 DTS = 22147,1666666667
+PACK header 		nr. 154		Size :	14 bytes	SCR = 22514,0624814815
+Audio PES 		nr. 66		Size :	8210 bytes	PTS = 22514,0555555556	 DTS = 22514,0555555556
+PACK header 		nr. 155		Size :	14 bytes	SCR = 22847,6041851852
+Audio PES 		nr. 67		Size :	8210 bytes	PTS = 22847,6	 DTS = 22847,6
+PACK header 		nr. 156		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 89		Size :	5242 bytes	PTS = 2936,26666666667	 DTS = 2936,26666666667
+PACK header 		nr. 157		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 90		Size :	1462 bytes	PTS = 2969,63333333333	 DTS = 2969,63333333333
+PACK header 		nr. 158		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 91		Size :	1458 bytes	PTS = 3003	 DTS = 3003
+PACK header 		nr. 159		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 92		Size :	1722 bytes	PTS = 3036,36666666667	 DTS = 3036,36666666667
+PACK header 		nr. 160		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 93		Size :	1658 bytes	PTS = 3069,73333333333	 DTS = 3069,73333333333
+PACK header 		nr. 161		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 94		Size :	1818 bytes	PTS = 3103,1	 DTS = 3103,1
+PACK header 		nr. 162		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 95		Size :	1706 bytes	PTS = 3136,46666666667	 DTS = 3136,46666666667
+PACK header 		nr. 163		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 96		Size :	1722 bytes	PTS = 3169,83333333333	 DTS = 3169,83333333333
+PACK header 		nr. 164		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 97		Size :	1710 bytes	PTS = 3203,2	 DTS = 3203,2
+PACK header 		nr. 165		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 98		Size :	1298 bytes	PTS = 3236,56666666667	 DTS = 3236,56666666667
+PACK header 		nr. 166		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 99		Size :	1382 bytes	PTS = 3269,93333333333	 DTS = 3269,93333333333
+PACK header 		nr. 167		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 100		Size :	1206 bytes	PTS = 3303,3	 DTS = 3303,3
+PACK header 		nr. 168		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 101		Size :	1286 bytes	PTS = 3336,66666666667	 DTS = 3336,66666666667
+PACK header 		nr. 169		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 102		Size :	1262 bytes	PTS = 3370,03333333333	 DTS = 3370,03333333333
+PACK header 		nr. 170		Size :	14 bytes	SCR = 22847,6041851852
+Video PES 		nr. 103		Size :	1214 bytes	PTS = 3403,4	 DTS = 3403,4
+PACK header 		nr. 171		Size :	14 bytes	SCR = 23181,1458888889
+Audio PES 		nr. 68		Size :	8210 bytes	PTS = 23181,1444444444	 DTS = 23181,1444444444
+PACK header 		nr. 172		Size :	14 bytes	SCR = 23514,6874814815
+Audio PES 		nr. 69		Size :	8210 bytes	PTS = 23514,6777777778	 DTS = 23514,6777777778
+PACK header 		nr. 173		Size :	14 bytes	SCR = 23881,5833703704
+Audio PES 		nr. 70		Size :	8210 bytes	PTS = 23881,5777777778	 DTS = 23881,5777777778
+PACK header 		nr. 174		Size :	14 bytes	SCR = 24215,125
+Audio PES 		nr. 71		Size :	8210 bytes	PTS = 24215,1222222222	 DTS = 24215,1222222222
+PACK header 		nr. 175		Size :	14 bytes	SCR = 24548,6666666667
+Audio PES 		nr. 72		Size :	8210 bytes	PTS = 24548,6666666667	 DTS = 24548,6666666667
+PACK header 		nr. 176		Size :	14 bytes	SCR = 24882,2083703704
+Audio PES 		nr. 73		Size :	8210 bytes	PTS = 24882,2	 DTS = 24882,2
+PACK header 		nr. 177		Size :	14 bytes	SCR = 25215,75
+Audio PES 		nr. 74		Size :	8210 bytes	PTS = 25215,7444444444	 DTS = 25215,7444444444
+PACK header 		nr. 178		Size :	14 bytes	SCR = 25582,6458888889
+Audio PES 		nr. 75		Size :	8210 bytes	PTS = 25582,6444444444	 DTS = 25582,6444444444
+PACK header 		nr. 179		Size :	14 bytes	SCR = 25916,1874814815
+Audio PES 		nr. 76		Size :	8210 bytes	PTS = 25916,1777777778	 DTS = 25916,1777777778
+PACK header 		nr. 180		Size :	14 bytes	SCR = 26249,7291851852
+Audio PES 		nr. 77		Size :	8210 bytes	PTS = 26249,7222222222	 DTS = 26249,7222222222
+PACK header 		nr. 181		Size :	14 bytes	SCR = 26583,2708888889
+Audio PES 		nr. 78		Size :	8210 bytes	PTS = 26583,2666666667	 DTS = 26583,2666666667
+PACK header 		nr. 182		Size :	14 bytes	SCR = 26950,1666666667
+Audio PES 		nr. 79		Size :	8210 bytes	PTS = 26950,1666666667	 DTS = 26950,1666666667
+PACK header 		nr. 183		Size :	14 bytes	SCR = 27283,7083703704
+Audio PES 		nr. 80		Size :	8210 bytes	PTS = 27283,7	 DTS = 27283,7
+PACK header 		nr. 184		Size :	14 bytes	SCR = 27617,25
+Audio PES 		nr. 81		Size :	8210 bytes	PTS = 27617,2444444444	 DTS = 27617,2444444444
+PACK header 		nr. 185		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 104		Size :	4422 bytes	PTS = 3436,76666666667	 DTS = 3436,76666666667
+PACK header 		nr. 186		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 105		Size :	838 bytes	PTS = 3470,13333333333	 DTS = 3470,13333333333
+PACK header 		nr. 187		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 106		Size :	766 bytes	PTS = 3503,5	 DTS = 3503,5
+PACK header 		nr. 188		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 107		Size :	782 bytes	PTS = 3536,86666666667	 DTS = 3536,86666666667
+PACK header 		nr. 189		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 108		Size :	886 bytes	PTS = 3570,23333333333	 DTS = 3570,23333333333
+PACK header 		nr. 190		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 109		Size :	890 bytes	PTS = 3603,6	 DTS = 3603,6
+PACK header 		nr. 191		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 110		Size :	782 bytes	PTS = 3636,96666666667	 DTS = 3636,96666666667
+PACK header 		nr. 192		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 111		Size :	934 bytes	PTS = 3670,33333333333	 DTS = 3670,33333333333
+PACK header 		nr. 193		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 112		Size :	902 bytes	PTS = 3703,7	 DTS = 3703,7
+PACK header 		nr. 194		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 113		Size :	790 bytes	PTS = 3737,06666666667	 DTS = 3737,06666666667
+PACK header 		nr. 195		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 114		Size :	962 bytes	PTS = 3770,43333333333	 DTS = 3770,43333333333
+PACK header 		nr. 196		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 115		Size :	934 bytes	PTS = 3803,8	 DTS = 3803,8
+PACK header 		nr. 197		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 116		Size :	1010 bytes	PTS = 3837,16666666667	 DTS = 3837,16666666667
+PACK header 		nr. 198		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 117		Size :	994 bytes	PTS = 3870,53333333333	 DTS = 3870,53333333333
+PACK header 		nr. 199		Size :	14 bytes	SCR = 27617,25
+Video PES 		nr. 118		Size :	1014 bytes	PTS = 3903,9	 DTS = 3903,9
+PACK header 		nr. 200		Size :	14 bytes	SCR = 27950,7916666667
+Audio PES 		nr. 82		Size :	8210 bytes	PTS = 27950,7888888889	 DTS = 27950,7888888889
+PACK header 		nr. 201		Size :	14 bytes	SCR = 28317,6874814815
+Audio PES 		nr. 83		Size :	8210 bytes	PTS = 28317,6777777778	 DTS = 28317,6777777778
+PACK header 		nr. 202		Size :	14 bytes	SCR = 28651,2291851852
+Audio PES 		nr. 84		Size :	8210 bytes	PTS = 28651,2222222222	 DTS = 28651,2222222222
+PACK header 		nr. 203		Size :	14 bytes	SCR = 28984,7708888889
+Audio PES 		nr. 85		Size :	8210 bytes	PTS = 28984,7666666667	 DTS = 28984,7666666667
+PACK header 		nr. 204		Size :	14 bytes	SCR = 29351,6666666667
+Audio PES 		nr. 86		Size :	8210 bytes	PTS = 29351,6666666667	 DTS = 29351,6666666667
+PACK header 		nr. 205		Size :	14 bytes	SCR = 29685,2083703704
+Audio PES 		nr. 87		Size :	8210 bytes	PTS = 29685,2	 DTS = 29685,2
+PACK header 		nr. 206		Size :	14 bytes	SCR = 30018,75
+Audio PES 		nr. 88		Size :	8210 bytes	PTS = 30018,7444444444	 DTS = 30018,7444444444
+PACK header 		nr. 207		Size :	14 bytes	SCR = 30352,2916666667
+Audio PES 		nr. 89		Size :	8210 bytes	PTS = 30352,2888888889	 DTS = 30352,2888888889
+PACK header 		nr. 208		Size :	14 bytes	SCR = 30719,1874814815
+Audio PES 		nr. 90		Size :	8210 bytes	PTS = 30719,1777777778	 DTS = 30719,1777777778
+PACK header 		nr. 209		Size :	14 bytes	SCR = 31052,7291851852
+Audio PES 		nr. 91		Size :	8210 bytes	PTS = 31052,7222222222	 DTS = 31052,7222222222
+PACK header 		nr. 210		Size :	14 bytes	SCR = 31386,2708888889
+Audio PES 		nr. 92		Size :	8210 bytes	PTS = 31386,2666666667	 DTS = 31386,2666666667
+PACK header 		nr. 211		Size :	14 bytes	SCR = 31719,8124814815
+Audio PES 		nr. 93		Size :	8210 bytes	PTS = 31719,8111111111	 DTS = 31719,8111111111
+PACK header 		nr. 212		Size :	14 bytes	SCR = 32086,7083703704
+Audio PES 		nr. 94		Size :	8210 bytes	PTS = 32086,7	 DTS = 32086,7
+PACK header 		nr. 213		Size :	14 bytes	SCR = 32420,25
+Audio PES 		nr. 95		Size :	8210 bytes	PTS = 32420,2444444444	 DTS = 32420,2444444444
+PACK header 		nr. 214		Size :	14 bytes	SCR = 32753,7916666667
+Audio PES 		nr. 96		Size :	8210 bytes	PTS = 32753,7888888889	 DTS = 32753,7888888889
+PACK header 		nr. 215		Size :	14 bytes	SCR = 32753,7916666667
+Video PES 		nr. 119		Size :	4462 bytes	PTS = 3937,26666666667	 DTS = 3937,26666666667
+PACK header 		nr. 216		Size :	14 bytes	SCR = 32753,7916666667
+Video PES 		nr. 120		Size :	1042 bytes	PTS = 3970,63333333333	 DTS = 3970,63333333333
+PACK header 		nr. 217		Size :	14 bytes	SCR = 32753,7916666667
+Video PES 		nr. 121		Size :	1026 bytes	PTS = 4004	 DTS = 4004
+PACK header 		nr. 218		Size :	14 bytes	SCR = 32753,7916666667
+Video PES 		nr. 122		Size :	1050 bytes	PTS = 4037,36666666667	 DTS = 4037,36666666667
+PACK header 		nr. 219		Size :	14 bytes	SCR = 32753,7916666667
+Video PES 		nr. 123		Size :	1062 bytes	PTS = 4070,73333333333	 DTS = 4070,73333333333
+PACK header 		nr. 220		Size :	14 bytes	SCR = 33087,3333703704
+Audio PES 		nr. 97		Size :	8210 bytes	PTS = 33087,3333333333	 DTS = 33087,3333333333
+PACK header 		nr. 221		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 124		Size :	1026 bytes	PTS = 4104,1	 DTS = 4104,1
+PACK header 		nr. 222		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 125		Size :	1290 bytes	PTS = 4137,46666666667	 DTS = 4137,46666666667
+PACK header 		nr. 223		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 126		Size :	1050 bytes	PTS = 4170,83333333333	 DTS = 4170,83333333333
+PACK header 		nr. 224		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 127		Size :	1014 bytes	PTS = 4204,2	 DTS = 4204,2
+PACK header 		nr. 225		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 128		Size :	1242 bytes	PTS = 4237,56666666667	 DTS = 4237,56666666667
+PACK header 		nr. 226		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 129		Size :	1034 bytes	PTS = 4270,93333333333	 DTS = 4270,93333333333
+PACK header 		nr. 227		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 130		Size :	1026 bytes	PTS = 4304,3	 DTS = 4304,3
+PACK header 		nr. 228		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 131		Size :	3946 bytes	PTS = 4337,66666666667	 DTS = 4337,66666666667
+PACK header 		nr. 229		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 132		Size :	918 bytes	PTS = 4371,03333333333	 DTS = 4371,03333333333
+PACK header 		nr. 230		Size :	14 bytes	SCR = 33087,3333703704
+Video PES 		nr. 133		Size :	1146 bytes	PTS = 4404,4	 DTS = 4404,4
+PACK header 		nr. 231		Size :	14 bytes	SCR = 33454,2291851852
+Audio PES 		nr. 98		Size :	8210 bytes	PTS = 33454,2222222222	 DTS = 33454,2222222222
+PACK header 		nr. 232		Size :	14 bytes	SCR = 33787,7708888889
+Audio PES 		nr. 99		Size :	8210 bytes	PTS = 33787,7666666667	 DTS = 33787,7666666667
+PACK header 		nr. 233		Size :	14 bytes	SCR = 34121,3124814815
+Audio PES 		nr. 100		Size :	8210 bytes	PTS = 34121,3111111111	 DTS = 34121,3111111111
+PACK header 		nr. 234		Size :	14 bytes	SCR = 34454,8541851852
+Audio PES 		nr. 101		Size :	8210 bytes	PTS = 34454,8444444444	 DTS = 34454,8444444444
+PACK header 		nr. 235		Size :	14 bytes	SCR = 34788,3958888889
+Audio PES 		nr. 102		Size :	8210 bytes	PTS = 34788,3888888889	 DTS = 34788,3888888889
+PACK header 		nr. 236		Size :	14 bytes	SCR = 35155,2916666667
+Audio PES 		nr. 103		Size :	8210 bytes	PTS = 35155,2888888889	 DTS = 35155,2888888889
+PACK header 		nr. 237		Size :	14 bytes	SCR = 35488,8333703704
+Audio PES 		nr. 104		Size :	8210 bytes	PTS = 35488,8333333333	 DTS = 35488,8333333333
+PACK header 		nr. 238		Size :	14 bytes	SCR = 35822,375
+Audio PES 		nr. 105		Size :	8210 bytes	PTS = 35822,3666666667	 DTS = 35822,3666666667
+PACK header 		nr. 239		Size :	14 bytes	SCR = 36155,9166666667
+Audio PES 		nr. 106		Size :	8210 bytes	PTS = 36155,9111111111	 DTS = 36155,9111111111
+PACK header 		nr. 240		Size :	14 bytes	SCR = 36522,8124814815
+Audio PES 		nr. 107		Size :	8210 bytes	PTS = 36522,8111111111	 DTS = 36522,8111111111
+PACK header 		nr. 241		Size :	14 bytes	SCR = 36856,3541851852
+Audio PES 		nr. 108		Size :	8210 bytes	PTS = 36856,3444444444	 DTS = 36856,3444444444
+PACK header 		nr. 242		Size :	14 bytes	SCR = 37189,8958888889
+Audio PES 		nr. 109		Size :	8210 bytes	PTS = 37189,8888888889	 DTS = 37189,8888888889
+PACK header 		nr. 243		Size :	14 bytes	SCR = 37189,8958888889
+Video PES 		nr. 134		Size :	5526 bytes	PTS = 4437,76666666667	 DTS = 4437,76666666667
+PACK header 		nr. 244		Size :	14 bytes	SCR = 37189,8958888889
+Video PES 		nr. 135		Size :	1238 bytes	PTS = 4471,13333333333	 DTS = 4471,13333333333
+PACK header 		nr. 245		Size :	14 bytes	SCR = 37189,8958888889
+Video PES 		nr. 136		Size :	1278 bytes	PTS = 4504,5	 DTS = 4504,5
+PACK header 		nr. 246		Size :	14 bytes	SCR = 37189,8958888889
+Video PES 		nr. 137		Size :	1014 bytes	PTS = 4537,86666666667	 DTS = 4537,86666666667
+PACK header 		nr. 247		Size :	14 bytes	SCR = 37189,8958888889
+Video PES 		nr. 138		Size :	1314 bytes	PTS = 4571,23333333333	 DTS = 4571,23333333333
+PACK header 		nr. 248		Size :	14 bytes	SCR = 37523,4374814815
+Audio PES 		nr. 110		Size :	8210 bytes	PTS = 37523,4333333333	 DTS = 37523,4333333333
+PACK header 		nr. 249		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 139		Size :	1270 bytes	PTS = 4604,6	 DTS = 4604,6
+PACK header 		nr. 250		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 140		Size :	938 bytes	PTS = 4637,96666666667	 DTS = 4637,96666666667
+PACK header 		nr. 251		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 141		Size :	1214 bytes	PTS = 4671,33333333333	 DTS = 4671,33333333333
+PACK header 		nr. 252		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 142		Size :	1194 bytes	PTS = 4704,7	 DTS = 4704,7
+PACK header 		nr. 253		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 143		Size :	806 bytes	PTS = 4738,06666666667	 DTS = 4738,06666666667
+PACK header 		nr. 254		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 144		Size :	1198 bytes	PTS = 4771,43333333333	 DTS = 4771,43333333333
+PACK header 		nr. 255		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 145		Size :	1270 bytes	PTS = 4804,8	 DTS = 4804,8
+PACK header 		nr. 256		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 146		Size :	942 bytes	PTS = 4838,16666666667	 DTS = 4838,16666666667
+PACK header 		nr. 257		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 147		Size :	1222 bytes	PTS = 4871,53333333333	 DTS = 4871,53333333333
+PACK header 		nr. 258		Size :	14 bytes	SCR = 37523,4374814815
+Video PES 		nr. 148		Size :	1258 bytes	PTS = 4904,9	 DTS = 4904,9
+PACK header 		nr. 259		Size :	14 bytes	SCR = 37856,9791851852
+Audio PES 		nr. 111		Size :	8210 bytes	PTS = 37856,9777777778	 DTS = 37856,9777777778
+PACK header 		nr. 260		Size :	14 bytes	SCR = 38223,875
+Audio PES 		nr. 112		Size :	8210 bytes	PTS = 38223,8666666667	 DTS = 38223,8666666667
+PACK header 		nr. 261		Size :	14 bytes	SCR = 38557,4166666667
+Audio PES 		nr. 113		Size :	8210 bytes	PTS = 38557,4111111111	 DTS = 38557,4111111111
+PACK header 		nr. 262		Size :	14 bytes	SCR = 38890,9583703704
+Audio PES 		nr. 114		Size :	8210 bytes	PTS = 38890,9555555556	 DTS = 38890,9555555556
+PACK header 		nr. 263		Size :	14 bytes	SCR = 39124,4374814815
+Audio PES 		nr. 115		Size :	6622 bytes	PTS = 39124,4333333333	 DTS = 39124,4333333333
+PACK header 		nr. 264		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 149		Size :	5302 bytes	PTS = 4938,26666666667	 DTS = 4938,26666666667
+PACK header 		nr. 265		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 150		Size :	1242 bytes	PTS = 4971,63333333333	 DTS = 4971,63333333333
+PACK header 		nr. 266		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 151		Size :	1278 bytes	PTS = 5005	 DTS = 5005
+PACK header 		nr. 267		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 152		Size :	1002 bytes	PTS = 5038,36666666667	 DTS = 5038,36666666667
+PACK header 		nr. 268		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 153		Size :	1266 bytes	PTS = 5071,73333333333	 DTS = 5071,73333333333
+PACK header 		nr. 269		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 154		Size :	1190 bytes	PTS = 5105,1	 DTS = 5105,1
+PACK header 		nr. 270		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 155		Size :	5058 bytes	PTS = 5138,46666666667	 DTS = 5138,46666666667
+PACK header 		nr. 271		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 156		Size :	1182 bytes	PTS = 5171,83333333333	 DTS = 5171,83333333333
+PACK header 		nr. 272		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 157		Size :	1514 bytes	PTS = 5205,2	 DTS = 5205,2
+PACK header 		nr. 273		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 158		Size :	2430 bytes	PTS = 5238,56666666667	 DTS = 5238,56666666667
+PACK header 		nr. 274		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 159		Size :	1702 bytes	PTS = 5271,93333333333	 DTS = 5271,93333333333
+PACK header 		nr. 275		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 160		Size :	1866 bytes	PTS = 5305,3	 DTS = 5305,3
+PACK header 		nr. 276		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 161		Size :	2102 bytes	PTS = 5338,66666666667	 DTS = 5338,66666666667
+PACK header 		nr. 277		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 162		Size :	1778 bytes	PTS = 5372,03333333333	 DTS = 5372,03333333333
+PACK header 		nr. 278		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 163		Size :	1810 bytes	PTS = 5405,4	 DTS = 5405,4
+PACK header 		nr. 279		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 164		Size :	6726 bytes	PTS = 5438,76666666667	 DTS = 5438,76666666667
+PACK header 		nr. 280		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 165		Size :	1834 bytes	PTS = 5472,13333333333	 DTS = 5472,13333333333
+PACK header 		nr. 281		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 166		Size :	1966 bytes	PTS = 5505,5	 DTS = 5505,5
+PACK header 		nr. 282		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 167		Size :	2330 bytes	PTS = 5538,86666666667	 DTS = 5538,86666666667
+PACK header 		nr. 283		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 168		Size :	2006 bytes	PTS = 5572,23333333333	 DTS = 5572,23333333333
+PACK header 		nr. 284		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 169		Size :	2038 bytes	PTS = 5605,6	 DTS = 5605,6
+PACK header 		nr. 285		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 170		Size :	2250 bytes	PTS = 5638,96666666667	 DTS = 5638,96666666667
+PACK header 		nr. 286		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 171		Size :	1950 bytes	PTS = 5672,33333333333	 DTS = 5672,33333333333
+PACK header 		nr. 287		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 172		Size :	1794 bytes	PTS = 5705,7	 DTS = 5705,7
+PACK header 		nr. 288		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 173		Size :	1894 bytes	PTS = 5739,06666666667	 DTS = 5739,06666666667
+PACK header 		nr. 289		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 174		Size :	1670 bytes	PTS = 5772,43333333333	 DTS = 5772,43333333333
+PACK header 		nr. 290		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 175		Size :	1658 bytes	PTS = 5805,8	 DTS = 5805,8
+PACK header 		nr. 291		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 176		Size :	1782 bytes	PTS = 5839,16666666667	 DTS = 5839,16666666667
+PACK header 		nr. 292		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 177		Size :	1642 bytes	PTS = 5872,53333333333	 DTS = 5872,53333333333
+PACK header 		nr. 293		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 178		Size :	1698 bytes	PTS = 5905,9	 DTS = 5905,9
+PACK header 		nr. 294		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 179		Size :	6586 bytes	PTS = 5939,26666666667	 DTS = 5939,26666666667
+PACK header 		nr. 295		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 180		Size :	1670 bytes	PTS = 5972,63333333333	 DTS = 5972,63333333333
+PACK header 		nr. 296		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 181		Size :	1682 bytes	PTS = 6006	 DTS = 6006
+PACK header 		nr. 297		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 182		Size :	2166 bytes	PTS = 6039,36666666667	 DTS = 6039,36666666667
+PACK header 		nr. 298		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 183		Size :	1730 bytes	PTS = 6072,73333333333	 DTS = 6072,73333333333
+PACK header 		nr. 299		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 184		Size :	1750 bytes	PTS = 6106,1	 DTS = 6106,1
+PACK header 		nr. 300		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 185		Size :	2554 bytes	PTS = 6139,46666666667	 DTS = 6139,46666666667
+PACK header 		nr. 301		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 186		Size :	2022 bytes	PTS = 6172,83333333333	 DTS = 6172,83333333333
+PACK header 		nr. 302		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 187		Size :	2022 bytes	PTS = 6206,2	 DTS = 6206,2
+PACK header 		nr. 303		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 188		Size :	1314 bytes	PTS = 6239,56666666667	 DTS = 6239,56666666667
+PACK header 		nr. 304		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 189		Size :	682 bytes	PTS = 6272,93333333333	 DTS = 6272,93333333333
+PACK header 		nr. 305		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 190		Size :	738 bytes	PTS = 6306,3	 DTS = 6306,3
+PACK header 		nr. 306		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 191		Size :	1534 bytes	PTS = 6339,66666666667	 DTS = 6339,66666666667
+PACK header 		nr. 307		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 192		Size :	1946 bytes	PTS = 6373,03333333333	 DTS = 6373,03333333333
+PACK header 		nr. 308		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 193		Size :	1946 bytes	PTS = 6406,4	 DTS = 6406,4
+PACK header 		nr. 309		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 194		Size :	4518 bytes	PTS = 6439,76666666667	 DTS = 6439,76666666667
+PACK header 		nr. 310		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 195		Size :	706 bytes	PTS = 6473,13333333333	 DTS = 6473,13333333333
+PACK header 		nr. 311		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 196		Size :	474 bytes	PTS = 6506,5	 DTS = 6506,5
+PACK header 		nr. 312		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 197		Size :	1398 bytes	PTS = 6539,86666666667	 DTS = 6539,86666666667
+PACK header 		nr. 313		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 198		Size :	1866 bytes	PTS = 6573,23333333333	 DTS = 6573,23333333333
+PACK header 		nr. 314		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 199		Size :	1866 bytes	PTS = 6606,6	 DTS = 6606,6
+PACK header 		nr. 315		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 200		Size :	1258 bytes	PTS = 6639,96666666667	 DTS = 6639,96666666667
+PACK header 		nr. 316		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 201		Size :	502 bytes	PTS = 6673,33333333333	 DTS = 6673,33333333333
+PACK header 		nr. 317		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 202		Size :	634 bytes	PTS = 6706,7	 DTS = 6706,7
+PACK header 		nr. 318		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 203		Size :	1394 bytes	PTS = 6740,06666666667	 DTS = 6740,06666666667
+PACK header 		nr. 319		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 204		Size :	1786 bytes	PTS = 6773,43333333333	 DTS = 6773,43333333333
+PACK header 		nr. 320		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 205		Size :	1786 bytes	PTS = 6806,8	 DTS = 6806,8
+PACK header 		nr. 321		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 206		Size :	1374 bytes	PTS = 6840,16666666667	 DTS = 6840,16666666667
+PACK header 		nr. 322		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 207		Size :	470 bytes	PTS = 6873,53333333333	 DTS = 6873,53333333333
+PACK header 		nr. 323		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 208		Size :	694 bytes	PTS = 6906,9	 DTS = 6906,9
+PACK header 		nr. 324		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 209		Size :	4494 bytes	PTS = 6940,26666666667	 DTS = 6940,26666666667
+PACK header 		nr. 325		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 210		Size :	2026 bytes	PTS = 6973,63333333333	 DTS = 6973,63333333333
+PACK header 		nr. 326		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 211		Size :	2030 bytes	PTS = 7007	 DTS = 7007
+PACK header 		nr. 327		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 212		Size :	2166 bytes	PTS = 7040,36666666667	 DTS = 7040,36666666667
+PACK header 		nr. 328		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 213		Size :	1470 bytes	PTS = 7073,73333333333	 DTS = 7073,73333333333
+PACK header 		nr. 329		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 214		Size :	902 bytes	PTS = 7107,1	 DTS = 7107,1
+PACK header 		nr. 330		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 215		Size :	2154 bytes	PTS = 7140,46666666667	 DTS = 7140,46666666667
+PACK header 		nr. 331		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 216		Size :	2270 bytes	PTS = 7173,83333333333	 DTS = 7173,83333333333
+PACK header 		nr. 332		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 217		Size :	2470 bytes	PTS = 7207,2	 DTS = 7207,2
+PACK header 		nr. 333		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 218		Size :	2546 bytes	PTS = 7240,56666666667	 DTS = 7240,56666666667
+PACK header 		nr. 334		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 219		Size :	1074 bytes	PTS = 7273,93333333333	 DTS = 7273,93333333333
+PACK header 		nr. 335		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 220		Size :	2030 bytes	PTS = 7307,3	 DTS = 7307,3
+PACK header 		nr. 336		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 221		Size :	1114 bytes	PTS = 7340,66666666667	 DTS = 7340,66666666667
+PACK header 		nr. 337		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 222		Size :	2890 bytes	PTS = 7374,03333333333	 DTS = 7374,03333333333
+PACK header 		nr. 338		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 223		Size :	2878 bytes	PTS = 7407,4	 DTS = 7407,4
+PACK header 		nr. 339		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 224		Size :	5070 bytes	PTS = 7440,76666666667	 DTS = 7440,76666666667
+PACK header 		nr. 340		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 225		Size :	1090 bytes	PTS = 7474,13333333333	 DTS = 7474,13333333333
+PACK header 		nr. 341		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 226		Size :	922 bytes	PTS = 7507,5	 DTS = 7507,5
+PACK header 		nr. 342		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 227		Size :	622 bytes	PTS = 7540,86666666667	 DTS = 7540,86666666667
+PACK header 		nr. 343		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 228		Size :	878 bytes	PTS = 7574,23333333333	 DTS = 7574,23333333333
+PACK header 		nr. 344		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 229		Size :	918 bytes	PTS = 7607,6	 DTS = 7607,6
+PACK header 		nr. 345		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 230		Size :	630 bytes	PTS = 7640,96666666667	 DTS = 7640,96666666667
+PACK header 		nr. 346		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 231		Size :	894 bytes	PTS = 7674,33333333333	 DTS = 7674,33333333333
+PACK header 		nr. 347		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 232		Size :	934 bytes	PTS = 7707,7	 DTS = 7707,7
+PACK header 		nr. 348		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 233		Size :	622 bytes	PTS = 7741,06666666667	 DTS = 7741,06666666667
+PACK header 		nr. 349		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 234		Size :	882 bytes	PTS = 7774,43333333333	 DTS = 7774,43333333333
+PACK header 		nr. 350		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 235		Size :	914 bytes	PTS = 7807,8	 DTS = 7807,8
+PACK header 		nr. 351		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 236		Size :	550 bytes	PTS = 7841,16666666667	 DTS = 7841,16666666667
+PACK header 		nr. 352		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 237		Size :	878 bytes	PTS = 7874,53333333333	 DTS = 7874,53333333333
+PACK header 		nr. 353		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 238		Size :	866 bytes	PTS = 7907,9	 DTS = 7907,9
+PACK header 		nr. 354		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 239		Size :	5086 bytes	PTS = 7941,26666666667	 DTS = 7941,26666666667
+PACK header 		nr. 355		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 240		Size :	910 bytes	PTS = 7974,63333333333	 DTS = 7974,63333333333
+PACK header 		nr. 356		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 241		Size :	854 bytes	PTS = 8008	 DTS = 8008
+PACK header 		nr. 357		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 242		Size :	618 bytes	PTS = 8041,36666666667	 DTS = 8041,36666666667
+PACK header 		nr. 358		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 243		Size :	842 bytes	PTS = 8074,73333333333	 DTS = 8074,73333333333
+PACK header 		nr. 359		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 244		Size :	850 bytes	PTS = 8108,1	 DTS = 8108,1
+PACK header 		nr. 360		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 245		Size :	566 bytes	PTS = 8141,46666666667	 DTS = 8141,46666666667
+PACK header 		nr. 361		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 246		Size :	846 bytes	PTS = 8174,83333333333	 DTS = 8174,83333333333
+PACK header 		nr. 362		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 247		Size :	878 bytes	PTS = 8208,2	 DTS = 8208,2
+PACK header 		nr. 363		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 248		Size :	774 bytes	PTS = 8241,56666666667	 DTS = 8241,56666666667
+PACK header 		nr. 364		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 249		Size :	902 bytes	PTS = 8274,93333333333	 DTS = 8274,93333333333
+PACK header 		nr. 365		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 250		Size :	910 bytes	PTS = 8308,3	 DTS = 8308,3
+PACK header 		nr. 366		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 251		Size :	1034 bytes	PTS = 8341,66666666667	 DTS = 8341,66666666667
+PACK header 		nr. 367		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 252		Size :	958 bytes	PTS = 8375,03333333333	 DTS = 8375,03333333333
+PACK header 		nr. 368		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 253		Size :	986 bytes	PTS = 8408,4	 DTS = 8408,4
+PACK header 		nr. 369		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 254		Size :	5070 bytes	PTS = 8441,76666666667	 DTS = 8441,76666666667
+PACK header 		nr. 370		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 255		Size :	1018 bytes	PTS = 8475,13333333333	 DTS = 8475,13333333333
+PACK header 		nr. 371		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 256		Size :	970 bytes	PTS = 8508,5	 DTS = 8508,5
+PACK header 		nr. 372		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 257		Size :	870 bytes	PTS = 8541,86666666667	 DTS = 8541,86666666667
+PACK header 		nr. 373		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 258		Size :	898 bytes	PTS = 8575,23333333333	 DTS = 8575,23333333333
+PACK header 		nr. 374		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 259		Size :	906 bytes	PTS = 8608,6	 DTS = 8608,6
+PACK header 		nr. 375		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 260		Size :	638 bytes	PTS = 8641,96666666667	 DTS = 8641,96666666667
+PACK header 		nr. 376		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 261		Size :	886 bytes	PTS = 8675,33333333333	 DTS = 8675,33333333333
+PACK header 		nr. 377		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 262		Size :	894 bytes	PTS = 8708,7	 DTS = 8708,7
+PACK header 		nr. 378		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 263		Size :	674 bytes	PTS = 8742,06666666667	 DTS = 8742,06666666667
+PACK header 		nr. 379		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 264		Size :	878 bytes	PTS = 8775,43333333333	 DTS = 8775,43333333333
+PACK header 		nr. 380		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 265		Size :	886 bytes	PTS = 8808,8	 DTS = 8808,8
+PACK header 		nr. 381		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 266		Size :	598 bytes	PTS = 8842,16666666667	 DTS = 8842,16666666667
+PACK header 		nr. 382		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 267		Size :	898 bytes	PTS = 8875,53333333333	 DTS = 8875,53333333333
+PACK header 		nr. 383		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 268		Size :	894 bytes	PTS = 8908,9	 DTS = 8908,9
+PACK header 		nr. 384		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 269		Size :	5150 bytes	PTS = 8942,26666666667	 DTS = 8942,26666666667
+PACK header 		nr. 385		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 270		Size :	922 bytes	PTS = 8975,63333333333	 DTS = 8975,63333333333
+PACK header 		nr. 386		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 271		Size :	898 bytes	PTS = 9009	 DTS = 9009
+PACK header 		nr. 387		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 272		Size :	814 bytes	PTS = 9042,36666666667	 DTS = 9042,36666666667
+PACK header 		nr. 388		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 273		Size :	926 bytes	PTS = 9075,73333333333	 DTS = 9075,73333333333
+PACK header 		nr. 389		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 274		Size :	934 bytes	PTS = 9109,1	 DTS = 9109,1
+PACK header 		nr. 390		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 275		Size :	1126 bytes	PTS = 9142,46666666667	 DTS = 9142,46666666667
+PACK header 		nr. 391		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 276		Size :	1094 bytes	PTS = 9175,83333333333	 DTS = 9175,83333333333
+PACK header 		nr. 392		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 277		Size :	1038 bytes	PTS = 9209,2	 DTS = 9209,2
+PACK header 		nr. 393		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 278		Size :	1234 bytes	PTS = 9242,56666666667	 DTS = 9242,56666666667
+PACK header 		nr. 394		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 279		Size :	1122 bytes	PTS = 9275,93333333333	 DTS = 9275,93333333333
+PACK header 		nr. 395		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 280		Size :	1082 bytes	PTS = 9309,3	 DTS = 9309,3
+PACK header 		nr. 396		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 281		Size :	994 bytes	PTS = 9342,66666666667	 DTS = 9342,66666666667
+PACK header 		nr. 397		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 282		Size :	994 bytes	PTS = 9376,03333333333	 DTS = 9376,03333333333
+PACK header 		nr. 398		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 283		Size :	1022 bytes	PTS = 9409,4	 DTS = 9409,4
+PACK header 		nr. 399		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 284		Size :	5278 bytes	PTS = 9442,76666666667	 DTS = 9442,76666666667
+PACK header 		nr. 400		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 285		Size :	962 bytes	PTS = 9476,13333333333	 DTS = 9476,13333333333
+PACK header 		nr. 401		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 286		Size :	874 bytes	PTS = 9509,5	 DTS = 9509,5
+PACK header 		nr. 402		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 287		Size :	418 bytes	PTS = 9542,86666666667	 DTS = 9542,86666666667
+PACK header 		nr. 403		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 288		Size :	810 bytes	PTS = 9576,23333333333	 DTS = 9576,23333333333
+PACK header 		nr. 404		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 289		Size :	878 bytes	PTS = 9609,6	 DTS = 9609,6
+PACK header 		nr. 405		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 290		Size :	3118 bytes	PTS = 9642,96666666667	 DTS = 9642,96666666667
+PACK header 		nr. 406		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 291		Size :	974 bytes	PTS = 9676,33333333333	 DTS = 9676,33333333333
+PACK header 		nr. 407		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 292		Size :	790 bytes	PTS = 9709,7	 DTS = 9709,7
+PACK header 		nr. 408		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 293		Size :	550 bytes	PTS = 9743,06666666667	 DTS = 9743,06666666667
+PACK header 		nr. 409		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 294		Size :	874 bytes	PTS = 9776,43333333333	 DTS = 9776,43333333333
+PACK header 		nr. 410		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 295		Size :	850 bytes	PTS = 9809,8	 DTS = 9809,8
+PACK header 		nr. 411		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 296		Size :	730 bytes	PTS = 9843,16666666667	 DTS = 9843,16666666667
+PACK header 		nr. 412		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 297		Size :	930 bytes	PTS = 9876,53333333333	 DTS = 9876,53333333333
+PACK header 		nr. 413		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 298		Size :	914 bytes	PTS = 9909,9	 DTS = 9909,9
+PACK header 		nr. 414		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 299		Size :	4154 bytes	PTS = 9943,26666666667	 DTS = 9943,26666666667
+PACK header 		nr. 415		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 300		Size :	842 bytes	PTS = 9976,63333333333	 DTS = 9976,63333333333
+PACK header 		nr. 416		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 301		Size :	806 bytes	PTS = 10010	 DTS = 10010
+PACK header 		nr. 417		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 302		Size :	894 bytes	PTS = 10043,3666666667	 DTS = 10043,3666666667
+PACK header 		nr. 418		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 303		Size :	810 bytes	PTS = 10076,7333333333	 DTS = 10076,7333333333
+PACK header 		nr. 419		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 304		Size :	838 bytes	PTS = 10110,1	 DTS = 10110,1
+PACK header 		nr. 420		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 305		Size :	990 bytes	PTS = 10143,4666666667	 DTS = 10143,4666666667
+PACK header 		nr. 421		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 306		Size :	874 bytes	PTS = 10176,8333333333	 DTS = 10176,8333333333
+PACK header 		nr. 422		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 307		Size :	918 bytes	PTS = 10210,2	 DTS = 10210,2
+PACK header 		nr. 423		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 308		Size :	998 bytes	PTS = 10243,5666666667	 DTS = 10243,5666666667
+PACK header 		nr. 424		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 309		Size :	926 bytes	PTS = 10276,9333333333	 DTS = 10276,9333333333
+PACK header 		nr. 425		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 310		Size :	926 bytes	PTS = 10310,3	 DTS = 10310,3
+PACK header 		nr. 426		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 311		Size :	798 bytes	PTS = 10343,6666666667	 DTS = 10343,6666666667
+PACK header 		nr. 427		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 312		Size :	954 bytes	PTS = 10377,0333333333	 DTS = 10377,0333333333
+PACK header 		nr. 428		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 313		Size :	910 bytes	PTS = 10410,4	 DTS = 10410,4
+PACK header 		nr. 429		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 314		Size :	4186 bytes	PTS = 10443,7666666667	 DTS = 10443,7666666667
+PACK header 		nr. 430		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 315		Size :	942 bytes	PTS = 10477,1333333333	 DTS = 10477,1333333333
+PACK header 		nr. 431		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 316		Size :	898 bytes	PTS = 10510,5	 DTS = 10510,5
+PACK header 		nr. 432		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 317		Size :	6518 bytes	PTS = 10543,8666666667	 DTS = 10543,8666666667
+PACK header 		nr. 433		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 318		Size :	858 bytes	PTS = 10577,2333333333	 DTS = 10577,2333333333
+PACK header 		nr. 434		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 319		Size :	1094 bytes	PTS = 10610,6	 DTS = 10610,6
+PACK header 		nr. 435		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 320		Size :	4046 bytes	PTS = 10643,9666666667	 DTS = 10643,9666666667
+PACK header 		nr. 436		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 321		Size :	4234 bytes	PTS = 10677,3333333333	 DTS = 10677,3333333333
+PACK header 		nr. 437		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 322		Size :	3394 bytes	PTS = 10710,7	 DTS = 10710,7
+PACK header 		nr. 438		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 323		Size :	3038 bytes	PTS = 10744,0666666667	 DTS = 10744,0666666667
+PACK header 		nr. 439		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 324		Size :	3662 bytes	PTS = 10777,4333333333	 DTS = 10777,4333333333
+PACK header 		nr. 440		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 325		Size :	2782 bytes	PTS = 10810,8	 DTS = 10810,8
+PACK header 		nr. 441		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 326		Size :	3618 bytes	PTS = 10844,1666666667	 DTS = 10844,1666666667
+PACK header 		nr. 442		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 327		Size :	1378 bytes	PTS = 10877,5333333333	 DTS = 10877,5333333333
+PACK header 		nr. 443		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 328		Size :	1278 bytes	PTS = 10910,9	 DTS = 10910,9
+PACK header 		nr. 444		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 329		Size :	5038 bytes	PTS = 10944,2666666667	 DTS = 10944,2666666667
+PACK header 		nr. 445		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 330		Size :	1746 bytes	PTS = 10977,6333333333	 DTS = 10977,6333333333
+PACK header 		nr. 446		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 331		Size :	1538 bytes	PTS = 11011	 DTS = 11011
+PACK header 		nr. 447		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 332		Size :	1602 bytes	PTS = 11044,3666666667	 DTS = 11044,3666666667
+PACK header 		nr. 448		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 333		Size :	1422 bytes	PTS = 11077,7333333333	 DTS = 11077,7333333333
+PACK header 		nr. 449		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 334		Size :	1434 bytes	PTS = 11111,1	 DTS = 11111,1
+PACK header 		nr. 450		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 335		Size :	1510 bytes	PTS = 11144,4777777778	 DTS = 11144,4777777778
+PACK header 		nr. 451		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 336		Size :	1302 bytes	PTS = 11177,8444444444	 DTS = 11177,8444444444
+PACK header 		nr. 452		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 337		Size :	1206 bytes	PTS = 11211,2111111111	 DTS = 11211,2111111111
+PACK header 		nr. 453		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 338		Size :	1234 bytes	PTS = 11244,5777777778	 DTS = 11244,5777777778
+PACK header 		nr. 454		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 339		Size :	1218 bytes	PTS = 11277,9444444444	 DTS = 11277,9444444444
+PACK header 		nr. 455		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 340		Size :	1126 bytes	PTS = 11311,3111111111	 DTS = 11311,3111111111
+PACK header 		nr. 456		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 341		Size :	1098 bytes	PTS = 11344,6777777778	 DTS = 11344,6777777778
+PACK header 		nr. 457		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 342		Size :	1130 bytes	PTS = 11378,0444444444	 DTS = 11378,0444444444
+PACK header 		nr. 458		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 343		Size :	1138 bytes	PTS = 11411,4111111111	 DTS = 11411,4111111111
+PACK header 		nr. 459		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 344		Size :	5394 bytes	PTS = 11444,7777777778	 DTS = 11444,7777777778
+PACK header 		nr. 460		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 345		Size :	938 bytes	PTS = 11478,1444444444	 DTS = 11478,1444444444
+PACK header 		nr. 461		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 346		Size :	1046 bytes	PTS = 11511,5111111111	 DTS = 11511,5111111111
+PACK header 		nr. 462		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 347		Size :	738 bytes	PTS = 11544,8777777778	 DTS = 11544,8777777778
+PACK header 		nr. 463		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 348		Size :	966 bytes	PTS = 11578,2444444444	 DTS = 11578,2444444444
+PACK header 		nr. 464		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 349		Size :	962 bytes	PTS = 11611,6111111111	 DTS = 11611,6111111111
+PACK header 		nr. 465		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 350		Size :	818 bytes	PTS = 11644,9777777778	 DTS = 11644,9777777778
+PACK header 		nr. 466		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 351		Size :	998 bytes	PTS = 11678,3444444444	 DTS = 11678,3444444444
+PACK header 		nr. 467		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 352		Size :	1042 bytes	PTS = 11711,7111111111	 DTS = 11711,7111111111
+PACK header 		nr. 468		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 353		Size :	3898 bytes	PTS = 11745,0777777778	 DTS = 11745,0777777778
+PACK header 		nr. 469		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 354		Size :	2806 bytes	PTS = 11778,4444444444	 DTS = 11778,4444444444
+PACK header 		nr. 470		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 355		Size :	2402 bytes	PTS = 11811,8111111111	 DTS = 11811,8111111111
+PACK header 		nr. 471		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 356		Size :	2774 bytes	PTS = 11845,1777777778	 DTS = 11845,1777777778
+PACK header 		nr. 472		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 357		Size :	1938 bytes	PTS = 11878,5444444444	 DTS = 11878,5444444444
+PACK header 		nr. 473		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 358		Size :	1962 bytes	PTS = 11911,9111111111	 DTS = 11911,9111111111
+PACK header 		nr. 474		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 359		Size :	5862 bytes	PTS = 11945,2777777778	 DTS = 11945,2777777778
+PACK header 		nr. 475		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 360		Size :	2154 bytes	PTS = 11978,6444444444	 DTS = 11978,6444444444
+PACK header 		nr. 476		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 361		Size :	2038 bytes	PTS = 12012,0111111111	 DTS = 12012,0111111111
+PACK header 		nr. 477		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 362		Size :	3306 bytes	PTS = 12045,3777777778	 DTS = 12045,3777777778
+PACK header 		nr. 478		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 363		Size :	2066 bytes	PTS = 12078,7444444444	 DTS = 12078,7444444444
+PACK header 		nr. 479		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 364		Size :	2130 bytes	PTS = 12112,1111111111	 DTS = 12112,1111111111
+PACK header 		nr. 480		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 365		Size :	3058 bytes	PTS = 12145,4777777778	 DTS = 12145,4777777778
+PACK header 		nr. 481		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 366		Size :	2290 bytes	PTS = 12178,8444444444	 DTS = 12178,8444444444
+PACK header 		nr. 482		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 367		Size :	2114 bytes	PTS = 12212,2111111111	 DTS = 12212,2111111111
+PACK header 		nr. 483		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 368		Size :	3178 bytes	PTS = 12245,5777777778	 DTS = 12245,5777777778
+PACK header 		nr. 484		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 369		Size :	2298 bytes	PTS = 12278,9444444444	 DTS = 12278,9444444444
+PACK header 		nr. 485		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 370		Size :	2222 bytes	PTS = 12312,3111111111	 DTS = 12312,3111111111
+PACK header 		nr. 486		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 371		Size :	3190 bytes	PTS = 12345,6777777778	 DTS = 12345,6777777778
+PACK header 		nr. 487		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 372		Size :	2254 bytes	PTS = 12379,0444444444	 DTS = 12379,0444444444
+PACK header 		nr. 488		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 373		Size :	2190 bytes	PTS = 12412,4111111111	 DTS = 12412,4111111111
+PACK header 		nr. 489		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 374		Size :	6286 bytes	PTS = 12445,7777777778	 DTS = 12445,7777777778
+PACK header 		nr. 490		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 375		Size :	2226 bytes	PTS = 12479,1444444444	 DTS = 12479,1444444444
+PACK header 		nr. 491		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 376		Size :	2086 bytes	PTS = 12512,5111111111	 DTS = 12512,5111111111
+PACK header 		nr. 492		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 377		Size :	2818 bytes	PTS = 12545,8777777778	 DTS = 12545,8777777778
+PACK header 		nr. 493		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 378		Size :	2274 bytes	PTS = 12579,2444444444	 DTS = 12579,2444444444
+PACK header 		nr. 494		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 379		Size :	2362 bytes	PTS = 12612,6111111111	 DTS = 12612,6111111111
+PACK header 		nr. 495		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 380		Size :	3038 bytes	PTS = 12645,9777777778	 DTS = 12645,9777777778
+PACK header 		nr. 496		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 381		Size :	2158 bytes	PTS = 12679,3444444444	 DTS = 12679,3444444444
+PACK header 		nr. 497		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 382		Size :	2282 bytes	PTS = 12712,7111111111	 DTS = 12712,7111111111
+PACK header 		nr. 498		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 383		Size :	3238 bytes	PTS = 12746,0777777778	 DTS = 12746,0777777778
+PACK header 		nr. 499		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 384		Size :	2374 bytes	PTS = 12779,4444444444	 DTS = 12779,4444444444
+PACK header 		nr. 500		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 385		Size :	2490 bytes	PTS = 12812,8111111111	 DTS = 12812,8111111111
+PACK header 		nr. 501		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 386		Size :	4194 bytes	PTS = 12846,1777777778	 DTS = 12846,1777777778
+PACK header 		nr. 502		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 387		Size :	2310 bytes	PTS = 12879,5444444444	 DTS = 12879,5444444444
+PACK header 		nr. 503		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 388		Size :	2330 bytes	PTS = 12912,9111111111	 DTS = 12912,9111111111
+PACK header 		nr. 504		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 389		Size :	6470 bytes	PTS = 12946,2777777778	 DTS = 12946,2777777778
+PACK header 		nr. 505		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 390		Size :	3502 bytes	PTS = 12979,6444444444	 DTS = 12979,6444444444
+PACK header 		nr. 506		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 391		Size :	3698 bytes	PTS = 13013,0111111111	 DTS = 13013,0111111111
+PACK header 		nr. 507		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 392		Size :	3634 bytes	PTS = 13046,3777777778	 DTS = 13046,3777777778
+PACK header 		nr. 508		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 393		Size :	2774 bytes	PTS = 13079,7444444444	 DTS = 13079,7444444444
+PACK header 		nr. 509		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 394		Size :	2582 bytes	PTS = 13113,1111111111	 DTS = 13113,1111111111
+PACK header 		nr. 510		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 395		Size :	2346 bytes	PTS = 13146,4777777778	 DTS = 13146,4777777778
+PACK header 		nr. 511		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 396		Size :	2170 bytes	PTS = 13179,8444444444	 DTS = 13179,8444444444
+PACK header 		nr. 512		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 397		Size :	1946 bytes	PTS = 13213,2111111111	 DTS = 13213,2111111111
+PACK header 		nr. 513		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 398		Size :	2234 bytes	PTS = 13246,5777777778	 DTS = 13246,5777777778
+PACK header 		nr. 514		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 399		Size :	1990 bytes	PTS = 13279,9444444444	 DTS = 13279,9444444444
+PACK header 		nr. 515		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 400		Size :	2174 bytes	PTS = 13313,3111111111	 DTS = 13313,3111111111
+PACK header 		nr. 516		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 401		Size :	1746 bytes	PTS = 13346,6777777778	 DTS = 13346,6777777778
+PACK header 		nr. 517		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 402		Size :	2138 bytes	PTS = 13380,0444444444	 DTS = 13380,0444444444
+PACK header 		nr. 518		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 403		Size :	2030 bytes	PTS = 13413,4111111111	 DTS = 13413,4111111111
+PACK header 		nr. 519		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 404		Size :	5330 bytes	PTS = 13446,7777777778	 DTS = 13446,7777777778
+PACK header 		nr. 520		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 405		Size :	1646 bytes	PTS = 13480,1444444444	 DTS = 13480,1444444444
+PACK header 		nr. 521		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 406		Size :	1974 bytes	PTS = 13513,5111111111	 DTS = 13513,5111111111
+PACK header 		nr. 522		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 407		Size :	1982 bytes	PTS = 13546,8777777778	 DTS = 13546,8777777778
+PACK header 		nr. 523		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 408		Size :	1922 bytes	PTS = 13580,2444444444	 DTS = 13580,2444444444
+PACK header 		nr. 524		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 409		Size :	1854 bytes	PTS = 13613,6111111111	 DTS = 13613,6111111111
+PACK header 		nr. 525		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 410		Size :	2130 bytes	PTS = 13646,9777777778	 DTS = 13646,9777777778
+PACK header 		nr. 526		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 411		Size :	1722 bytes	PTS = 13680,3444444444	 DTS = 13680,3444444444
+PACK header 		nr. 527		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 412		Size :	1846 bytes	PTS = 13713,7111111111	 DTS = 13713,7111111111
+PACK header 		nr. 528		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 413		Size :	1758 bytes	PTS = 13747,0777777778	 DTS = 13747,0777777778
+PACK header 		nr. 529		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 414		Size :	1854 bytes	PTS = 13780,4444444444	 DTS = 13780,4444444444
+PACK header 		nr. 530		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 415		Size :	1762 bytes	PTS = 13813,8111111111	 DTS = 13813,8111111111
+PACK header 		nr. 531		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 416		Size :	1850 bytes	PTS = 13847,1777777778	 DTS = 13847,1777777778
+PACK header 		nr. 532		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 417		Size :	1890 bytes	PTS = 13880,5444444444	 DTS = 13880,5444444444
+PACK header 		nr. 533		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 418		Size :	2014 bytes	PTS = 13913,9111111111	 DTS = 13913,9111111111
+PACK header 		nr. 534		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 419		Size :	5398 bytes	PTS = 13947,2777777778	 DTS = 13947,2777777778
+PACK header 		nr. 535		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 420		Size :	2638 bytes	PTS = 13980,6444444444	 DTS = 13980,6444444444
+PACK header 		nr. 536		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 421		Size :	2326 bytes	PTS = 14014,0111111111	 DTS = 14014,0111111111
+PACK header 		nr. 537		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 422		Size :	2642 bytes	PTS = 14047,3777777778	 DTS = 14047,3777777778
+PACK header 		nr. 538		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 423		Size :	2298 bytes	PTS = 14080,7444444444	 DTS = 14080,7444444444
+PACK header 		nr. 539		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 424		Size :	2222 bytes	PTS = 14114,1111111111	 DTS = 14114,1111111111
+PACK header 		nr. 540		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 425		Size :	2650 bytes	PTS = 14147,4777777778	 DTS = 14147,4777777778
+PACK header 		nr. 541		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 426		Size :	2170 bytes	PTS = 14180,8444444444	 DTS = 14180,8444444444
+PACK header 		nr. 542		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 427		Size :	2238 bytes	PTS = 14214,2111111111	 DTS = 14214,2111111111
+PACK header 		nr. 543		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 428		Size :	2438 bytes	PTS = 14247,5777777778	 DTS = 14247,5777777778
+PACK header 		nr. 544		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 429		Size :	2798 bytes	PTS = 14280,9444444444	 DTS = 14280,9444444444
+PACK header 		nr. 545		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 430		Size :	2410 bytes	PTS = 14314,3111111111	 DTS = 14314,3111111111
+PACK header 		nr. 546		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 431		Size :	2442 bytes	PTS = 14347,6777777778	 DTS = 14347,6777777778
+PACK header 		nr. 547		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 432		Size :	2194 bytes	PTS = 14381,0444444444	 DTS = 14381,0444444444
+PACK header 		nr. 548		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 433		Size :	1094 bytes	PTS = 14414,4111111111	 DTS = 14414,4111111111
+PACK header 		nr. 549		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 434		Size :	4622 bytes	PTS = 14447,7777777778	 DTS = 14447,7777777778
+PACK header 		nr. 550		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 435		Size :	1078 bytes	PTS = 14481,1444444444	 DTS = 14481,1444444444
+PACK header 		nr. 551		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 436		Size :	1022 bytes	PTS = 14514,5111111111	 DTS = 14514,5111111111
+PACK header 		nr. 552		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 437		Size :	894 bytes	PTS = 14547,8777777778	 DTS = 14547,8777777778
+PACK header 		nr. 553		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 438		Size :	862 bytes	PTS = 14581,2444444444	 DTS = 14581,2444444444
+PACK header 		nr. 554		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 439		Size :	982 bytes	PTS = 14614,6111111111	 DTS = 14614,6111111111
+PACK header 		nr. 555		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 440		Size :	978 bytes	PTS = 14647,9777777778	 DTS = 14647,9777777778
+PACK header 		nr. 556		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 441		Size :	966 bytes	PTS = 14681,3444444444	 DTS = 14681,3444444444
+PACK header 		nr. 557		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 442		Size :	934 bytes	PTS = 14714,7111111111	 DTS = 14714,7111111111
+PACK header 		nr. 558		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 443		Size :	1414 bytes	PTS = 14748,0777777778	 DTS = 14748,0777777778
+PACK header 		nr. 559		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 444		Size :	986 bytes	PTS = 14781,4444444444	 DTS = 14781,4444444444
+PACK header 		nr. 560		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 445		Size :	1090 bytes	PTS = 14814,8111111111	 DTS = 14814,8111111111
+PACK header 		nr. 561		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 446		Size :	678 bytes	PTS = 14848,1777777778	 DTS = 14848,1777777778
+PACK header 		nr. 562		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 447		Size :	1174 bytes	PTS = 14881,5444444444	 DTS = 14881,5444444444
+PACK header 		nr. 563		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 448		Size :	934 bytes	PTS = 14914,9111111111	 DTS = 14914,9111111111
+PACK header 		nr. 564		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 449		Size :	5214 bytes	PTS = 14948,2777777778	 DTS = 14948,2777777778
+PACK header 		nr. 565		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 450		Size :	982 bytes	PTS = 14981,6444444444	 DTS = 14981,6444444444
+PACK header 		nr. 566		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 451		Size :	1062 bytes	PTS = 15015,0111111111	 DTS = 15015,0111111111
+PACK header 		nr. 567		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 452		Size :	1150 bytes	PTS = 15048,3777777778	 DTS = 15048,3777777778
+PACK header 		nr. 568		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 453		Size :	1030 bytes	PTS = 15081,7444444444	 DTS = 15081,7444444444
+PACK header 		nr. 569		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 454		Size :	1006 bytes	PTS = 15115,1111111111	 DTS = 15115,1111111111
+PACK header 		nr. 570		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 455		Size :	1298 bytes	PTS = 15148,4777777778	 DTS = 15148,4777777778
+PACK header 		nr. 571		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 456		Size :	1090 bytes	PTS = 15181,8444444444	 DTS = 15181,8444444444
+PACK header 		nr. 572		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 457		Size :	1094 bytes	PTS = 15215,2111111111	 DTS = 15215,2111111111
+PACK header 		nr. 573		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 458		Size :	1302 bytes	PTS = 15248,5777777778	 DTS = 15248,5777777778
+PACK header 		nr. 574		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 459		Size :	846 bytes	PTS = 15281,9444444444	 DTS = 15281,9444444444
+PACK header 		nr. 575		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 460		Size :	910 bytes	PTS = 15315,3111111111	 DTS = 15315,3111111111
+PACK header 		nr. 576		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 461		Size :	3458 bytes	PTS = 15348,6777777778	 DTS = 15348,6777777778
+PACK header 		nr. 577		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 462		Size :	1074 bytes	PTS = 15382,0444444444	 DTS = 15382,0444444444
+PACK header 		nr. 578		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 463		Size :	1350 bytes	PTS = 15415,4111111111	 DTS = 15415,4111111111
+PACK header 		nr. 579		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 464		Size :	5138 bytes	PTS = 15448,7777777778	 DTS = 15448,7777777778
+PACK header 		nr. 580		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 465		Size :	1110 bytes	PTS = 15482,1444444444	 DTS = 15482,1444444444
+PACK header 		nr. 581		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 466		Size :	1082 bytes	PTS = 15515,5111111111	 DTS = 15515,5111111111
+PACK header 		nr. 582		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 467		Size :	1158 bytes	PTS = 15548,8777777778	 DTS = 15548,8777777778
+PACK header 		nr. 583		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 468		Size :	1138 bytes	PTS = 15582,2444444444	 DTS = 15582,2444444444
+PACK header 		nr. 584		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 469		Size :	1182 bytes	PTS = 15615,6111111111	 DTS = 15615,6111111111
+PACK header 		nr. 585		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 470		Size :	1078 bytes	PTS = 15648,9777777778	 DTS = 15648,9777777778
+PACK header 		nr. 586		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 471		Size :	1182 bytes	PTS = 15682,3444444444	 DTS = 15682,3444444444
+PACK header 		nr. 587		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 472		Size :	1162 bytes	PTS = 15715,7111111111	 DTS = 15715,7111111111
+PACK header 		nr. 588		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 473		Size :	1054 bytes	PTS = 15749,0777777778	 DTS = 15749,0777777778
+PACK header 		nr. 589		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 474		Size :	1286 bytes	PTS = 15782,4444444444	 DTS = 15782,4444444444
+PACK header 		nr. 590		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 475		Size :	1270 bytes	PTS = 15815,8111111111	 DTS = 15815,8111111111
+PACK header 		nr. 591		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 476		Size :	1050 bytes	PTS = 15849,1777777778	 DTS = 15849,1777777778
+PACK header 		nr. 592		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 477		Size :	1250 bytes	PTS = 15882,5444444444	 DTS = 15882,5444444444
+PACK header 		nr. 593		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 478		Size :	1314 bytes	PTS = 15915,9111111111	 DTS = 15915,9111111111
+PACK header 		nr. 594		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 479		Size :	4558 bytes	PTS = 15949,2777777778	 DTS = 15949,2777777778
+PACK header 		nr. 595		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 480		Size :	1094 bytes	PTS = 15982,6444444444	 DTS = 15982,6444444444
+PACK header 		nr. 596		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 481		Size :	1022 bytes	PTS = 16016,0111111111	 DTS = 16016,0111111111
+PACK header 		nr. 597		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 482		Size :	810 bytes	PTS = 16049,3777777778	 DTS = 16049,3777777778
+PACK header 		nr. 598		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 483		Size :	1014 bytes	PTS = 16082,7444444444	 DTS = 16082,7444444444
+PACK header 		nr. 599		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 484		Size :	1062 bytes	PTS = 16116,1111111111	 DTS = 16116,1111111111
+PACK header 		nr. 600		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 485		Size :	846 bytes	PTS = 16149,4777777778	 DTS = 16149,4777777778
+PACK header 		nr. 601		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 486		Size :	1046 bytes	PTS = 16182,8444444444	 DTS = 16182,8444444444
+PACK header 		nr. 602		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 487		Size :	986 bytes	PTS = 16216,2111111111	 DTS = 16216,2111111111
+PACK header 		nr. 603		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 488		Size :	2374 bytes	PTS = 16249,5777777778	 DTS = 16249,5777777778
+PACK header 		nr. 604		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 489		Size :	1118 bytes	PTS = 16282,9444444444	 DTS = 16282,9444444444
+PACK header 		nr. 605		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 490		Size :	1158 bytes	PTS = 16316,3111111111	 DTS = 16316,3111111111
+PACK header 		nr. 606		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 491		Size :	1138 bytes	PTS = 16349,6777777778	 DTS = 16349,6777777778
+PACK header 		nr. 607		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 492		Size :	1178 bytes	PTS = 16383,0444444444	 DTS = 16383,0444444444
+PACK header 		nr. 608		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 493		Size :	1274 bytes	PTS = 16416,4111111111	 DTS = 16416,4111111111
+PACK header 		nr. 609		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 494		Size :	4690 bytes	PTS = 16449,7777777778	 DTS = 16449,7777777778
+PACK header 		nr. 610		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 495		Size :	1198 bytes	PTS = 16483,1444444444	 DTS = 16483,1444444444
+PACK header 		nr. 611		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 496		Size :	1158 bytes	PTS = 16516,5111111111	 DTS = 16516,5111111111
+PACK header 		nr. 612		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 497		Size :	1282 bytes	PTS = 16549,8777777778	 DTS = 16549,8777777778
+PACK header 		nr. 613		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 498		Size :	1146 bytes	PTS = 16583,2444444444	 DTS = 16583,2444444444
+PACK header 		nr. 614		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 499		Size :	1158 bytes	PTS = 16616,6111111111	 DTS = 16616,6111111111
+PACK header 		nr. 615		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 500		Size :	1798 bytes	PTS = 16649,9777777778	 DTS = 16649,9777777778
+PACK header 		nr. 616		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 501		Size :	1450 bytes	PTS = 16683,3444444444	 DTS = 16683,3444444444
+PACK header 		nr. 617		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 502		Size :	1474 bytes	PTS = 16716,7111111111	 DTS = 16716,7111111111
+PACK header 		nr. 618		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 503		Size :	1938 bytes	PTS = 16750,0777777778	 DTS = 16750,0777777778
+PACK header 		nr. 619		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 504		Size :	1438 bytes	PTS = 16783,4444444444	 DTS = 16783,4444444444
+PACK header 		nr. 620		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 505		Size :	1406 bytes	PTS = 16816,8111111111	 DTS = 16816,8111111111
+PACK header 		nr. 621		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 506		Size :	1674 bytes	PTS = 16850,1777777778	 DTS = 16850,1777777778
+PACK header 		nr. 622		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 507		Size :	1394 bytes	PTS = 16883,5444444444	 DTS = 16883,5444444444
+PACK header 		nr. 623		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 508		Size :	1366 bytes	PTS = 16916,9111111111	 DTS = 16916,9111111111
+PACK header 		nr. 624		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 509		Size :	5134 bytes	PTS = 16950,2777777778	 DTS = 16950,2777777778
+PACK header 		nr. 625		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 510		Size :	1462 bytes	PTS = 16983,6444444444	 DTS = 16983,6444444444
+PACK header 		nr. 626		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 511		Size :	1418 bytes	PTS = 17017,0111111111	 DTS = 17017,0111111111
+PACK header 		nr. 627		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 512		Size :	1734 bytes	PTS = 17050,3777777778	 DTS = 17050,3777777778
+PACK header 		nr. 628		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 513		Size :	1410 bytes	PTS = 17083,7444444444	 DTS = 17083,7444444444
+PACK header 		nr. 629		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 514		Size :	1550 bytes	PTS = 17117,1111111111	 DTS = 17117,1111111111
+PACK header 		nr. 630		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 515		Size :	2026 bytes	PTS = 17150,4777777778	 DTS = 17150,4777777778
+PACK header 		nr. 631		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 516		Size :	1534 bytes	PTS = 17183,8444444444	 DTS = 17183,8444444444
+PACK header 		nr. 632		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 517		Size :	1630 bytes	PTS = 17217,2111111111	 DTS = 17217,2111111111
+PACK header 		nr. 633		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 518		Size :	2026 bytes	PTS = 17250,5777777778	 DTS = 17250,5777777778
+PACK header 		nr. 634		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 519		Size :	1562 bytes	PTS = 17283,9444444444	 DTS = 17283,9444444444
+PACK header 		nr. 635		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 520		Size :	1554 bytes	PTS = 17317,3111111111	 DTS = 17317,3111111111
+PACK header 		nr. 636		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 521		Size :	5086 bytes	PTS = 17350,6777777778	 DTS = 17350,6777777778
+PACK header 		nr. 637		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 522		Size :	1950 bytes	PTS = 17384,0444444444	 DTS = 17384,0444444444
+PACK header 		nr. 638		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 523		Size :	1378 bytes	PTS = 17417,4111111111	 DTS = 17417,4111111111
+PACK header 		nr. 639		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 524		Size :	6430 bytes	PTS = 17450,7777777778	 DTS = 17450,7777777778
+PACK header 		nr. 640		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 525		Size :	1386 bytes	PTS = 17484,1444444444	 DTS = 17484,1444444444
+PACK header 		nr. 641		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 526		Size :	1414 bytes	PTS = 17517,5111111111	 DTS = 17517,5111111111
+PACK header 		nr. 642		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 527		Size :	2754 bytes	PTS = 17550,8777777778	 DTS = 17550,8777777778
+PACK header 		nr. 643		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 528		Size :	1422 bytes	PTS = 17584,2444444444	 DTS = 17584,2444444444
+PACK header 		nr. 644		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 529		Size :	1546 bytes	PTS = 17617,6111111111	 DTS = 17617,6111111111
+PACK header 		nr. 645		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 530		Size :	2730 bytes	PTS = 17650,9777777778	 DTS = 17650,9777777778
+PACK header 		nr. 646		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 531		Size :	1710 bytes	PTS = 17684,3444444444	 DTS = 17684,3444444444
+PACK header 		nr. 647		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 532		Size :	1806 bytes	PTS = 17717,7111111111	 DTS = 17717,7111111111
+PACK header 		nr. 648		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 533		Size :	2370 bytes	PTS = 17751,0777777778	 DTS = 17751,0777777778
+PACK header 		nr. 649		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 534		Size :	1542 bytes	PTS = 17784,4444444444	 DTS = 17784,4444444444
+PACK header 		nr. 650		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 535		Size :	1518 bytes	PTS = 17817,8111111111	 DTS = 17817,8111111111
+PACK header 		nr. 651		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 536		Size :	2266 bytes	PTS = 17851,1777777778	 DTS = 17851,1777777778
+PACK header 		nr. 652		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 537		Size :	1582 bytes	PTS = 17884,5444444444	 DTS = 17884,5444444444
+PACK header 		nr. 653		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 538		Size :	1574 bytes	PTS = 17917,9111111111	 DTS = 17917,9111111111
+PACK header 		nr. 654		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 539		Size :	6418 bytes	PTS = 17951,2777777778	 DTS = 17951,2777777778
+PACK header 		nr. 655		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 540		Size :	1450 bytes	PTS = 17984,6444444444	 DTS = 17984,6444444444
+PACK header 		nr. 656		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 541		Size :	1502 bytes	PTS = 18018,0111111111	 DTS = 18018,0111111111
+PACK header 		nr. 657		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 542		Size :	1882 bytes	PTS = 18051,3777777778	 DTS = 18051,3777777778
+PACK header 		nr. 658		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 543		Size :	1530 bytes	PTS = 18084,7444444444	 DTS = 18084,7444444444
+PACK header 		nr. 659		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 544		Size :	1438 bytes	PTS = 18118,1111111111	 DTS = 18118,1111111111
+PACK header 		nr. 660		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 545		Size :	1690 bytes	PTS = 18151,4777777778	 DTS = 18151,4777777778
+PACK header 		nr. 661		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 546		Size :	1398 bytes	PTS = 18184,8444444444	 DTS = 18184,8444444444
+PACK header 		nr. 662		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 547		Size :	1430 bytes	PTS = 18218,2111111111	 DTS = 18218,2111111111
+PACK header 		nr. 663		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 548		Size :	1618 bytes	PTS = 18251,5777777778	 DTS = 18251,5777777778
+PACK header 		nr. 664		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 549		Size :	1386 bytes	PTS = 18284,9444444444	 DTS = 18284,9444444444
+PACK header 		nr. 665		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 550		Size :	1370 bytes	PTS = 18318,3111111111	 DTS = 18318,3111111111
+PACK header 		nr. 666		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 551		Size :	1542 bytes	PTS = 18351,6777777778	 DTS = 18351,6777777778
+PACK header 		nr. 667		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 552		Size :	1410 bytes	PTS = 18385,0444444444	 DTS = 18385,0444444444
+PACK header 		nr. 668		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 553		Size :	1402 bytes	PTS = 18418,4111111111	 DTS = 18418,4111111111
+PACK header 		nr. 669		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 554		Size :	6182 bytes	PTS = 18451,7777777778	 DTS = 18451,7777777778
+PACK header 		nr. 670		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 555		Size :	1342 bytes	PTS = 18485,1444444444	 DTS = 18485,1444444444
+PACK header 		nr. 671		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 556		Size :	1242 bytes	PTS = 18518,5111111111	 DTS = 18518,5111111111
+PACK header 		nr. 672		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 557		Size :	1374 bytes	PTS = 18551,8777777778	 DTS = 18551,8777777778
+PACK header 		nr. 673		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 558		Size :	1238 bytes	PTS = 18585,2444444444	 DTS = 18585,2444444444
+PACK header 		nr. 674		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 559		Size :	1254 bytes	PTS = 18618,6111111111	 DTS = 18618,6111111111
+PACK header 		nr. 675		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 560		Size :	1286 bytes	PTS = 18651,9777777778	 DTS = 18651,9777777778
+PACK header 		nr. 676		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 561		Size :	1214 bytes	PTS = 18685,3444444444	 DTS = 18685,3444444444
+PACK header 		nr. 677		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 562		Size :	1274 bytes	PTS = 18718,7111111111	 DTS = 18718,7111111111
+PACK header 		nr. 678		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 563		Size :	1242 bytes	PTS = 18752,0777777778	 DTS = 18752,0777777778
+PACK header 		nr. 679		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 564		Size :	1222 bytes	PTS = 18785,4444444444	 DTS = 18785,4444444444
+PACK header 		nr. 680		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 565		Size :	1262 bytes	PTS = 18818,8111111111	 DTS = 18818,8111111111
+PACK header 		nr. 681		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 566		Size :	3526 bytes	PTS = 18852,1777777778	 DTS = 18852,1777777778
+PACK header 		nr. 682		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 567		Size :	1310 bytes	PTS = 18885,5444444444	 DTS = 18885,5444444444
+PACK header 		nr. 683		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 568		Size :	1602 bytes	PTS = 18918,9111111111	 DTS = 18918,9111111111
+PACK header 		nr. 684		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 569		Size :	5390 bytes	PTS = 18952,2777777778	 DTS = 18952,2777777778
+PACK header 		nr. 685		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 570		Size :	1098 bytes	PTS = 18985,6444444444	 DTS = 18985,6444444444
+PACK header 		nr. 686		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 571		Size :	1058 bytes	PTS = 19019,0111111111	 DTS = 19019,0111111111
+PACK header 		nr. 687		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 572		Size :	766 bytes	PTS = 19052,3777777778	 DTS = 19052,3777777778
+PACK header 		nr. 688		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 573		Size :	1050 bytes	PTS = 19085,7444444444	 DTS = 19085,7444444444
+PACK header 		nr. 689		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 574		Size :	1090 bytes	PTS = 19119,1111111111	 DTS = 19119,1111111111
+PACK header 		nr. 690		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 575		Size :	778 bytes	PTS = 19152,4777777778	 DTS = 19152,4777777778
+PACK header 		nr. 691		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 576		Size :	1002 bytes	PTS = 19185,8444444444	 DTS = 19185,8444444444
+PACK header 		nr. 692		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 577		Size :	1074 bytes	PTS = 19219,2111111111	 DTS = 19219,2111111111
+PACK header 		nr. 693		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 578		Size :	902 bytes	PTS = 19252,5777777778	 DTS = 19252,5777777778
+PACK header 		nr. 694		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 579		Size :	1066 bytes	PTS = 19285,9444444444	 DTS = 19285,9444444444
+PACK header 		nr. 695		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 580		Size :	1070 bytes	PTS = 19319,3111111111	 DTS = 19319,3111111111
+PACK header 		nr. 696		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 581		Size :	794 bytes	PTS = 19352,6777777778	 DTS = 19352,6777777778
+PACK header 		nr. 697		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 582		Size :	1014 bytes	PTS = 19386,0444444444	 DTS = 19386,0444444444
+PACK header 		nr. 698		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 583		Size :	978 bytes	PTS = 19419,4111111111	 DTS = 19419,4111111111
+PACK header 		nr. 699		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 584		Size :	4406 bytes	PTS = 19452,7777777778	 DTS = 19452,7777777778
+PACK header 		nr. 700		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 585		Size :	1938 bytes	PTS = 19486,1444444444	 DTS = 19486,1444444444
+PACK header 		nr. 701		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 586		Size :	1218 bytes	PTS = 19519,5111111111	 DTS = 19519,5111111111
+PACK header 		nr. 702		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 587		Size :	1558 bytes	PTS = 19552,8777777778	 DTS = 19552,8777777778
+PACK header 		nr. 703		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 588		Size :	1198 bytes	PTS = 19586,2444444444	 DTS = 19586,2444444444
+PACK header 		nr. 704		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 589		Size :	1210 bytes	PTS = 19619,6111111111	 DTS = 19619,6111111111
+PACK header 		nr. 705		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 590		Size :	1546 bytes	PTS = 19652,9777777778	 DTS = 19652,9777777778
+PACK header 		nr. 706		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 591		Size :	1266 bytes	PTS = 19686,3444444444	 DTS = 19686,3444444444
+PACK header 		nr. 707		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 592		Size :	1282 bytes	PTS = 19719,7111111111	 DTS = 19719,7111111111
+PACK header 		nr. 708		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 593		Size :	3566 bytes	PTS = 19753,0777777778	 DTS = 19753,0777777778
+PACK header 		nr. 709		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 594		Size :	1762 bytes	PTS = 19786,4444444444	 DTS = 19786,4444444444
+PACK header 		nr. 710		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 595		Size :	1718 bytes	PTS = 19819,8111111111	 DTS = 19819,8111111111
+PACK header 		nr. 711		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 596		Size :	1178 bytes	PTS = 19853,1777777778	 DTS = 19853,1777777778
+PACK header 		nr. 712		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 597		Size :	1570 bytes	PTS = 19886,5444444444	 DTS = 19886,5444444444
+PACK header 		nr. 713		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 598		Size :	1422 bytes	PTS = 19919,9111111111	 DTS = 19919,9111111111
+PACK header 		nr. 714		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 599		Size :	5502 bytes	PTS = 19953,2777777778	 DTS = 19953,2777777778
+PACK header 		nr. 715		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 600		Size :	1270 bytes	PTS = 19986,6444444444	 DTS = 19986,6444444444
+PACK header 		nr. 716		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 601		Size :	2290 bytes	PTS = 20020,0111111111	 DTS = 20020,0111111111
+PACK header 		nr. 717		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 602		Size :	2998 bytes	PTS = 20053,3777777778	 DTS = 20053,3777777778
+PACK header 		nr. 718		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 603		Size :	2406 bytes	PTS = 20086,7444444444	 DTS = 20086,7444444444
+PACK header 		nr. 719		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 604		Size :	2086 bytes	PTS = 20120,1111111111	 DTS = 20120,1111111111
+PACK header 		nr. 720		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 605		Size :	2634 bytes	PTS = 20153,4777777778	 DTS = 20153,4777777778
+PACK header 		nr. 721		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 606		Size :	1674 bytes	PTS = 20186,8444444444	 DTS = 20186,8444444444
+PACK header 		nr. 722		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 607		Size :	1758 bytes	PTS = 20220,2111111111	 DTS = 20220,2111111111
+PACK header 		nr. 723		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 608		Size :	2250 bytes	PTS = 20253,5777777778	 DTS = 20253,5777777778
+PACK header 		nr. 724		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 609		Size :	1682 bytes	PTS = 20286,9444444444	 DTS = 20286,9444444444
+PACK header 		nr. 725		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 610		Size :	2030 bytes	PTS = 20320,3111111111	 DTS = 20320,3111111111
+PACK header 		nr. 726		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 611		Size :	2638 bytes	PTS = 20353,6777777778	 DTS = 20353,6777777778
+PACK header 		nr. 727		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 612		Size :	1670 bytes	PTS = 20387,0444444444	 DTS = 20387,0444444444
+PACK header 		nr. 728		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 613		Size :	1966 bytes	PTS = 20420,4111111111	 DTS = 20420,4111111111
+PACK header 		nr. 729		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 614		Size :	4846 bytes	PTS = 20453,7777777778	 DTS = 20453,7777777778
+PACK header 		nr. 730		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 615		Size :	2178 bytes	PTS = 20487,1444444444	 DTS = 20487,1444444444
+PACK header 		nr. 731		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 616		Size :	1850 bytes	PTS = 20520,5111111111	 DTS = 20520,5111111111
+PACK header 		nr. 732		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 617		Size :	2898 bytes	PTS = 20553,8777777778	 DTS = 20553,8777777778
+PACK header 		nr. 733		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 618		Size :	1522 bytes	PTS = 20587,2444444444	 DTS = 20587,2444444444
+PACK header 		nr. 734		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 619		Size :	1534 bytes	PTS = 20620,6111111111	 DTS = 20620,6111111111
+PACK header 		nr. 735		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 620		Size :	830 bytes	PTS = 20653,9777777778	 DTS = 20653,9777777778
+PACK header 		nr. 736		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 621		Size :	1082 bytes	PTS = 20687,3444444444	 DTS = 20687,3444444444
+PACK header 		nr. 737		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 622		Size :	1098 bytes	PTS = 20720,7111111111	 DTS = 20720,7111111111
+PACK header 		nr. 738		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 623		Size :	862 bytes	PTS = 20754,0777777778	 DTS = 20754,0777777778
+PACK header 		nr. 739		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 624		Size :	1074 bytes	PTS = 20787,4444444444	 DTS = 20787,4444444444
+PACK header 		nr. 740		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 625		Size :	1186 bytes	PTS = 20820,8111111111	 DTS = 20820,8111111111
+PACK header 		nr. 741		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 626		Size :	1198 bytes	PTS = 20854,1777777778	 DTS = 20854,1777777778
+PACK header 		nr. 742		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 627		Size :	1294 bytes	PTS = 20887,5444444444	 DTS = 20887,5444444444
+PACK header 		nr. 743		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 628		Size :	1266 bytes	PTS = 20920,9111111111	 DTS = 20920,9111111111
+PACK header 		nr. 744		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 629		Size :	5666 bytes	PTS = 20954,2777777778	 DTS = 20954,2777777778
+PACK header 		nr. 745		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 630		Size :	1438 bytes	PTS = 20987,6444444444	 DTS = 20987,6444444444
+PACK header 		nr. 746		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 631		Size :	1574 bytes	PTS = 21021,0111111111	 DTS = 21021,0111111111
+PACK header 		nr. 747		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 632		Size :	1662 bytes	PTS = 21054,3777777778	 DTS = 21054,3777777778
+PACK header 		nr. 748		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 633		Size :	1662 bytes	PTS = 21087,7444444444	 DTS = 21087,7444444444
+PACK header 		nr. 749		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 634		Size :	1622 bytes	PTS = 21121,1111111111	 DTS = 21121,1111111111
+PACK header 		nr. 750		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 635		Size :	1478 bytes	PTS = 21154,4777777778	 DTS = 21154,4777777778
+PACK header 		nr. 751		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 636		Size :	1346 bytes	PTS = 21187,8444444444	 DTS = 21187,8444444444
+PACK header 		nr. 752		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 637		Size :	1358 bytes	PTS = 21221,2111111111	 DTS = 21221,2111111111
+PACK header 		nr. 753		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 638		Size :	1374 bytes	PTS = 21254,5777777778	 DTS = 21254,5777777778
+PACK header 		nr. 754		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 639		Size :	1242 bytes	PTS = 21287,9444444444	 DTS = 21287,9444444444
+PACK header 		nr. 755		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 640		Size :	1210 bytes	PTS = 21321,3111111111	 DTS = 21321,3111111111
+PACK header 		nr. 756		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 641		Size :	982 bytes	PTS = 21354,6777777778	 DTS = 21354,6777777778
+PACK header 		nr. 757		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 642		Size :	1166 bytes	PTS = 21388,0444444444	 DTS = 21388,0444444444
+PACK header 		nr. 758		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 643		Size :	1146 bytes	PTS = 21421,4111111111	 DTS = 21421,4111111111
+PACK header 		nr. 759		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 644		Size :	6318 bytes	PTS = 21454,7777777778	 DTS = 21454,7777777778
+PACK header 		nr. 760		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 645		Size :	1030 bytes	PTS = 21488,1444444444	 DTS = 21488,1444444444
+PACK header 		nr. 761		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 646		Size :	1262 bytes	PTS = 21521,5111111111	 DTS = 21521,5111111111
+PACK header 		nr. 762		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 647		Size :	658 bytes	PTS = 21554,8777777778	 DTS = 21554,8777777778
+PACK header 		nr. 763		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 648		Size :	1434 bytes	PTS = 21588,2444444444	 DTS = 21588,2444444444
+PACK header 		nr. 764		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 649		Size :	1130 bytes	PTS = 21621,6111111111	 DTS = 21621,6111111111
+PACK header 		nr. 765		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 650		Size :	4150 bytes	PTS = 21654,9777777778	 DTS = 21654,9777777778
+PACK header 		nr. 766		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 651		Size :	994 bytes	PTS = 21688,3444444444	 DTS = 21688,3444444444
+PACK header 		nr. 767		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 652		Size :	3870 bytes	PTS = 21721,7111111111	 DTS = 21721,7111111111
+PACK header 		nr. 768		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 653		Size :	3094 bytes	PTS = 21755,0777777778	 DTS = 21755,0777777778
+PACK header 		nr. 769		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 654		Size :	2586 bytes	PTS = 21788,4444444444	 DTS = 21788,4444444444
+PACK header 		nr. 770		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 655		Size :	2262 bytes	PTS = 21821,8111111111	 DTS = 21821,8111111111
+PACK header 		nr. 771		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 656		Size :	2094 bytes	PTS = 21855,1777777778	 DTS = 21855,1777777778
+PACK header 		nr. 772		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 657		Size :	1870 bytes	PTS = 21888,5444444444	 DTS = 21888,5444444444
+PACK header 		nr. 773		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 658		Size :	1910 bytes	PTS = 21921,9111111111	 DTS = 21921,9111111111
+PACK header 		nr. 774		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 659		Size :	5902 bytes	PTS = 21955,2777777778	 DTS = 21955,2777777778
+PACK header 		nr. 775		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 660		Size :	1638 bytes	PTS = 21988,6444444444	 DTS = 21988,6444444444
+PACK header 		nr. 776		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 661		Size :	1734 bytes	PTS = 22022,0111111111	 DTS = 22022,0111111111
+PACK header 		nr. 777		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 662		Size :	1930 bytes	PTS = 22055,3777777778	 DTS = 22055,3777777778
+PACK header 		nr. 778		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 663		Size :	1614 bytes	PTS = 22088,7444444444	 DTS = 22088,7444444444
+PACK header 		nr. 779		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 664		Size :	1482 bytes	PTS = 22122,1111111111	 DTS = 22122,1111111111
+PACK header 		nr. 780		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 665		Size :	1238 bytes	PTS = 22155,4777777778	 DTS = 22155,4777777778
+PACK header 		nr. 781		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 666		Size :	1474 bytes	PTS = 22188,8444444444	 DTS = 22188,8444444444
+PACK header 		nr. 782		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 667		Size :	1582 bytes	PTS = 22222,2111111111	 DTS = 22222,2111111111
+PACK header 		nr. 783		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 668		Size :	1386 bytes	PTS = 22255,5888888889	 DTS = 22255,5888888889
+PACK header 		nr. 784		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 669		Size :	1258 bytes	PTS = 22288,9555555556	 DTS = 22288,9555555556
+PACK header 		nr. 785		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 670		Size :	1126 bytes	PTS = 22322,3222222222	 DTS = 22322,3222222222
+PACK header 		nr. 786		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 671		Size :	3894 bytes	PTS = 22355,6888888889	 DTS = 22355,6888888889
+PACK header 		nr. 787		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 672		Size :	1690 bytes	PTS = 22389,0555555556	 DTS = 22389,0555555556
+PACK header 		nr. 788		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 673		Size :	1582 bytes	PTS = 22422,4222222222	 DTS = 22422,4222222222
+PACK header 		nr. 789		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 674		Size :	5430 bytes	PTS = 22455,7888888889	 DTS = 22455,7888888889
+PACK header 		nr. 790		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 675		Size :	1766 bytes	PTS = 22489,1555555556	 DTS = 22489,1555555556
+PACK header 		nr. 791		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 676		Size :	2018 bytes	PTS = 22522,5222222222	 DTS = 22522,5222222222
+PACK header 		nr. 792		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 677		Size :	2962 bytes	PTS = 22555,8888888889	 DTS = 22555,8888888889
+PACK header 		nr. 793		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 678		Size :	2486 bytes	PTS = 22589,2555555556	 DTS = 22589,2555555556
+PACK header 		nr. 794		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 679		Size :	2622 bytes	PTS = 22622,6222222222	 DTS = 22622,6222222222
+PACK header 		nr. 795		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 680		Size :	2530 bytes	PTS = 22655,9888888889	 DTS = 22655,9888888889
+PACK header 		nr. 796		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 681		Size :	3014 bytes	PTS = 22689,3555555556	 DTS = 22689,3555555556
+PACK header 		nr. 797		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 682		Size :	2890 bytes	PTS = 22722,7222222222	 DTS = 22722,7222222222
+PACK header 		nr. 798		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 683		Size :	1618 bytes	PTS = 22756,0888888889	 DTS = 22756,0888888889
+PACK header 		nr. 799		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 684		Size :	2142 bytes	PTS = 22789,4555555556	 DTS = 22789,4555555556
+PACK header 		nr. 800		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 685		Size :	1854 bytes	PTS = 22822,8222222222	 DTS = 22822,8222222222
+PACK header 		nr. 801		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 686		Size :	1422 bytes	PTS = 22856,1888888889	 DTS = 22856,1888888889
+PACK header 		nr. 802		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 687		Size :	1634 bytes	PTS = 22889,5555555556	 DTS = 22889,5555555556
+PACK header 		nr. 803		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 688		Size :	1626 bytes	PTS = 22922,9222222222	 DTS = 22922,9222222222
+PACK header 		nr. 804		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 689		Size :	5130 bytes	PTS = 22956,2888888889	 DTS = 22956,2888888889
+PACK header 		nr. 805		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 690		Size :	2010 bytes	PTS = 22989,6555555556	 DTS = 22989,6555555556
+PACK header 		nr. 806		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 691		Size :	1886 bytes	PTS = 23023,0222222222	 DTS = 23023,0222222222
+PACK header 		nr. 807		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 692		Size :	1246 bytes	PTS = 23056,3888888889	 DTS = 23056,3888888889
+PACK header 		nr. 808		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 693		Size :	1894 bytes	PTS = 23089,7555555556	 DTS = 23089,7555555556
+PACK header 		nr. 809		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 694		Size :	1842 bytes	PTS = 23123,1222222222	 DTS = 23123,1222222222
+PACK header 		nr. 810		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 695		Size :	6158 bytes	PTS = 23156,4888888889	 DTS = 23156,4888888889
+PACK header 		nr. 811		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 696		Size :	1634 bytes	PTS = 23189,8555555556	 DTS = 23189,8555555556
+PACK header 		nr. 812		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 697		Size :	1822 bytes	PTS = 23223,2222222222	 DTS = 23223,2222222222
+PACK header 		nr. 813		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 698		Size :	4862 bytes	PTS = 23256,5888888889	 DTS = 23256,5888888889
+PACK header 		nr. 814		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 699		Size :	4646 bytes	PTS = 23289,9555555556	 DTS = 23289,9555555556
+PACK header 		nr. 815		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 700		Size :	4642 bytes	PTS = 23323,3222222222	 DTS = 23323,3222222222
+PACK header 		nr. 816		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 701		Size :	3798 bytes	PTS = 23356,6888888889	 DTS = 23356,6888888889
+PACK header 		nr. 817		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 702		Size :	3962 bytes	PTS = 23390,0555555556	 DTS = 23390,0555555556
+PACK header 		nr. 818		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 703		Size :	3618 bytes	PTS = 23423,4222222222	 DTS = 23423,4222222222
+PACK header 		nr. 819		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 704		Size :	5438 bytes	PTS = 23456,7888888889	 DTS = 23456,7888888889
+PACK header 		nr. 820		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 705		Size :	2298 bytes	PTS = 23490,1555555556	 DTS = 23490,1555555556
+PACK header 		nr. 821		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 706		Size :	1958 bytes	PTS = 23523,5222222222	 DTS = 23523,5222222222
+PACK header 		nr. 822		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 707		Size :	1834 bytes	PTS = 23556,8888888889	 DTS = 23556,8888888889
+PACK header 		nr. 823		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 708		Size :	1970 bytes	PTS = 23590,2555555556	 DTS = 23590,2555555556
+PACK header 		nr. 824		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 709		Size :	1906 bytes	PTS = 23623,6222222222	 DTS = 23623,6222222222
+PACK header 		nr. 825		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 710		Size :	1262 bytes	PTS = 23656,9888888889	 DTS = 23656,9888888889
+PACK header 		nr. 826		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 711		Size :	2114 bytes	PTS = 23690,3555555556	 DTS = 23690,3555555556
+PACK header 		nr. 827		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 712		Size :	1918 bytes	PTS = 23723,7222222222	 DTS = 23723,7222222222
+PACK header 		nr. 828		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 713		Size :	1030 bytes	PTS = 23757,0888888889	 DTS = 23757,0888888889
+PACK header 		nr. 829		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 714		Size :	1638 bytes	PTS = 23790,4555555556	 DTS = 23790,4555555556
+PACK header 		nr. 830		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 715		Size :	1530 bytes	PTS = 23823,8222222222	 DTS = 23823,8222222222
+PACK header 		nr. 831		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 716		Size :	1006 bytes	PTS = 23857,1888888889	 DTS = 23857,1888888889
+PACK header 		nr. 832		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 717		Size :	1434 bytes	PTS = 23890,5555555556	 DTS = 23890,5555555556
+PACK header 		nr. 833		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 718		Size :	1514 bytes	PTS = 23923,9222222222	 DTS = 23923,9222222222
+PACK header 		nr. 834		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 719		Size :	5594 bytes	PTS = 23957,2888888889	 DTS = 23957,2888888889
+PACK header 		nr. 835		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 720		Size :	1506 bytes	PTS = 23990,6555555556	 DTS = 23990,6555555556
+PACK header 		nr. 836		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 721		Size :	870 bytes	PTS = 24024,0222222222	 DTS = 24024,0222222222
+PACK header 		nr. 837		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 722		Size :	522 bytes	PTS = 24057,3888888889	 DTS = 24057,3888888889
+PACK header 		nr. 838		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 723		Size :	990 bytes	PTS = 24090,7555555556	 DTS = 24090,7555555556
+PACK header 		nr. 839		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 724		Size :	994 bytes	PTS = 24124,1222222222	 DTS = 24124,1222222222
+PACK header 		nr. 840		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 725		Size :	646 bytes	PTS = 24157,4888888889	 DTS = 24157,4888888889
+PACK header 		nr. 841		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 726		Size :	1126 bytes	PTS = 24190,8555555556	 DTS = 24190,8555555556
+PACK header 		nr. 842		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 727		Size :	1162 bytes	PTS = 24224,2222222222	 DTS = 24224,2222222222
+PACK header 		nr. 843		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 728		Size :	966 bytes	PTS = 24257,5888888889	 DTS = 24257,5888888889
+PACK header 		nr. 844		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 729		Size :	1206 bytes	PTS = 24290,9555555556	 DTS = 24290,9555555556
+PACK header 		nr. 845		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 730		Size :	1434 bytes	PTS = 24324,3222222222	 DTS = 24324,3222222222
+PACK header 		nr. 846		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 731		Size :	3862 bytes	PTS = 24357,6888888889	 DTS = 24357,6888888889
+PACK header 		nr. 847		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 732		Size :	1226 bytes	PTS = 24391,0555555556	 DTS = 24391,0555555556
+PACK header 		nr. 848		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 733		Size :	6114 bytes	PTS = 24424,4222222222	 DTS = 24424,4222222222
+PACK header 		nr. 849		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 734		Size :	6742 bytes	PTS = 24457,7888888889	 DTS = 24457,7888888889
+PACK header 		nr. 850		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 735		Size :	2966 bytes	PTS = 24491,1555555556	 DTS = 24491,1555555556
+PACK header 		nr. 851		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 736		Size :	2830 bytes	PTS = 24524,5222222222	 DTS = 24524,5222222222
+PACK header 		nr. 852		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 737		Size :	3318 bytes	PTS = 24557,8888888889	 DTS = 24557,8888888889
+PACK header 		nr. 853		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 738		Size :	2706 bytes	PTS = 24591,2555555556	 DTS = 24591,2555555556
+PACK header 		nr. 854		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 739		Size :	2614 bytes	PTS = 24624,6222222222	 DTS = 24624,6222222222
+PACK header 		nr. 855		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 740		Size :	3514 bytes	PTS = 24657,9888888889	 DTS = 24657,9888888889
+PACK header 		nr. 856		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 741		Size :	2758 bytes	PTS = 24691,3555555556	 DTS = 24691,3555555556
+PACK header 		nr. 857		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 742		Size :	2694 bytes	PTS = 24724,7222222222	 DTS = 24724,7222222222
+PACK header 		nr. 858		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 743		Size :	3458 bytes	PTS = 24758,0888888889	 DTS = 24758,0888888889
+PACK header 		nr. 859		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 744		Size :	2466 bytes	PTS = 24791,4555555556	 DTS = 24791,4555555556
+PACK header 		nr. 860		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 745		Size :	2274 bytes	PTS = 24824,8222222222	 DTS = 24824,8222222222
+PACK header 		nr. 861		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 746		Size :	3286 bytes	PTS = 24858,1888888889	 DTS = 24858,1888888889
+PACK header 		nr. 862		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 747		Size :	2242 bytes	PTS = 24891,5555555556	 DTS = 24891,5555555556
+PACK header 		nr. 863		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 748		Size :	2378 bytes	PTS = 24924,9222222222	 DTS = 24924,9222222222
+PACK header 		nr. 864		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 749		Size :	8702 bytes	PTS = 24958,2888888889	 DTS = 24958,2888888889
+PACK header 		nr. 865		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 750		Size :	2358 bytes	PTS = 24991,6555555556	 DTS = 24991,6555555556
+PACK header 		nr. 866		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 751		Size :	3130 bytes	PTS = 25025,0222222222	 DTS = 25025,0222222222
+PACK header 		nr. 867		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 752		Size :	4138 bytes	PTS = 25058,3888888889	 DTS = 25058,3888888889
+PACK header 		nr. 868		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 753		Size :	3134 bytes	PTS = 25091,7555555556	 DTS = 25091,7555555556
+PACK header 		nr. 869		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 754		Size :	4078 bytes	PTS = 25125,1222222222	 DTS = 25125,1222222222
+PACK header 		nr. 870		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 755		Size :	4066 bytes	PTS = 25158,4888888889	 DTS = 25158,4888888889
+PACK header 		nr. 871		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 756		Size :	3382 bytes	PTS = 25191,8555555556	 DTS = 25191,8555555556
+PACK header 		nr. 872		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 757		Size :	2862 bytes	PTS = 25225,2222222222	 DTS = 25225,2222222222
+PACK header 		nr. 873		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 758		Size :	3882 bytes	PTS = 25258,5888888889	 DTS = 25258,5888888889
+PACK header 		nr. 874		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 759		Size :	2490 bytes	PTS = 25291,9555555556	 DTS = 25291,9555555556
+PACK header 		nr. 875		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 760		Size :	2706 bytes	PTS = 25325,3222222222	 DTS = 25325,3222222222
+PACK header 		nr. 876		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 761		Size :	3130 bytes	PTS = 25358,6888888889	 DTS = 25358,6888888889
+PACK header 		nr. 877		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 762		Size :	2634 bytes	PTS = 25392,0555555556	 DTS = 25392,0555555556
+PACK header 		nr. 878		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 763		Size :	2230 bytes	PTS = 25425,4222222222	 DTS = 25425,4222222222
+PACK header 		nr. 879		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 764		Size :	6630 bytes	PTS = 25458,7888888889	 DTS = 25458,7888888889
+PACK header 		nr. 880		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 765		Size :	2250 bytes	PTS = 25492,1555555556	 DTS = 25492,1555555556
+PACK header 		nr. 881		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 766		Size :	2138 bytes	PTS = 25525,5222222222	 DTS = 25525,5222222222
+PACK header 		nr. 882		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 767		Size :	3558 bytes	PTS = 25558,8888888889	 DTS = 25558,8888888889
+PACK header 		nr. 883		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 768		Size :	2046 bytes	PTS = 25592,2555555556	 DTS = 25592,2555555556
+PACK header 		nr. 884		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 769		Size :	1586 bytes	PTS = 25625,6222222222	 DTS = 25625,6222222222
+PACK header 		nr. 885		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 770		Size :	2266 bytes	PTS = 25658,9888888889	 DTS = 25658,9888888889
+PACK header 		nr. 886		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 771		Size :	2014 bytes	PTS = 25692,3555555556	 DTS = 25692,3555555556
+PACK header 		nr. 887		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 772		Size :	2074 bytes	PTS = 25725,7222222222	 DTS = 25725,7222222222
+PACK header 		nr. 888		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 773		Size :	2794 bytes	PTS = 25759,0888888889	 DTS = 25759,0888888889
+PACK header 		nr. 889		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 774		Size :	2130 bytes	PTS = 25792,4555555556	 DTS = 25792,4555555556
+PACK header 		nr. 890		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 775		Size :	2318 bytes	PTS = 25825,8222222222	 DTS = 25825,8222222222
+PACK header 		nr. 891		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 776		Size :	2162 bytes	PTS = 25859,1888888889	 DTS = 25859,1888888889
+PACK header 		nr. 892		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 777		Size :	2234 bytes	PTS = 25892,5555555556	 DTS = 25892,5555555556
+PACK header 		nr. 893		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 778		Size :	2194 bytes	PTS = 25925,9222222222	 DTS = 25925,9222222222
+PACK header 		nr. 894		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 779		Size :	5270 bytes	PTS = 25959,2888888889	 DTS = 25959,2888888889
+PACK header 		nr. 895		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 780		Size :	1854 bytes	PTS = 25992,6555555556	 DTS = 25992,6555555556
+PACK header 		nr. 896		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 781		Size :	1678 bytes	PTS = 26026,0222222222	 DTS = 26026,0222222222
+PACK header 		nr. 897		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 782		Size :	1382 bytes	PTS = 26059,3888888889	 DTS = 26059,3888888889
+PACK header 		nr. 898		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 783		Size :	1458 bytes	PTS = 26092,7555555556	 DTS = 26092,7555555556
+PACK header 		nr. 899		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 784		Size :	1358 bytes	PTS = 26126,1222222222	 DTS = 26126,1222222222
+PACK header 		nr. 900		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 785		Size :	1522 bytes	PTS = 26159,4888888889	 DTS = 26159,4888888889
+PACK header 		nr. 901		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 786		Size :	1222 bytes	PTS = 26192,8555555556	 DTS = 26192,8555555556
+PACK header 		nr. 902		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 787		Size :	1398 bytes	PTS = 26226,2222222222	 DTS = 26226,2222222222
+PACK header 		nr. 903		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 788		Size :	1710 bytes	PTS = 26259,5888888889	 DTS = 26259,5888888889
+PACK header 		nr. 904		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 789		Size :	1394 bytes	PTS = 26292,9555555556	 DTS = 26292,9555555556
+PACK header 		nr. 905		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 790		Size :	1318 bytes	PTS = 26326,3222222222	 DTS = 26326,3222222222
+PACK header 		nr. 906		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 791		Size :	2462 bytes	PTS = 26359,6888888889	 DTS = 26359,6888888889
+PACK header 		nr. 907		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 792		Size :	1650 bytes	PTS = 26393,0555555556	 DTS = 26393,0555555556
+PACK header 		nr. 908		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 793		Size :	2010 bytes	PTS = 26426,4222222222	 DTS = 26426,4222222222
+PACK header 		nr. 909		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 794		Size :	4750 bytes	PTS = 26459,7888888889	 DTS = 26459,7888888889
+PACK header 		nr. 910		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 795		Size :	1390 bytes	PTS = 26493,1555555556	 DTS = 26493,1555555556
+PACK header 		nr. 911		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 796		Size :	1462 bytes	PTS = 26526,5222222222	 DTS = 26526,5222222222
+PACK header 		nr. 912		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 797		Size :	3438 bytes	PTS = 26559,8888888889	 DTS = 26559,8888888889
+PACK header 		nr. 913		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 798		Size :	1590 bytes	PTS = 26593,2555555556	 DTS = 26593,2555555556
+PACK header 		nr. 914		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 799		Size :	1938 bytes	PTS = 26626,6222222222	 DTS = 26626,6222222222
+PACK header 		nr. 915		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 800		Size :	910 bytes	PTS = 26659,9888888889	 DTS = 26659,9888888889
+PACK header 		nr. 916		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 801		Size :	1158 bytes	PTS = 26693,3555555556	 DTS = 26693,3555555556
+PACK header 		nr. 917		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 802		Size :	1310 bytes	PTS = 26726,7222222222	 DTS = 26726,7222222222
+PACK header 		nr. 918		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 803		Size :	2898 bytes	PTS = 26760,0888888889	 DTS = 26760,0888888889
+PACK header 		nr. 919		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 804		Size :	2062 bytes	PTS = 26793,4555555556	 DTS = 26793,4555555556
+PACK header 		nr. 920		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 805		Size :	2874 bytes	PTS = 26826,8222222222	 DTS = 26826,8222222222
+PACK header 		nr. 921		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 806		Size :	2446 bytes	PTS = 26860,1888888889	 DTS = 26860,1888888889
+PACK header 		nr. 922		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 807		Size :	2374 bytes	PTS = 26893,5555555556	 DTS = 26893,5555555556
+PACK header 		nr. 923		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 808		Size :	2546 bytes	PTS = 26926,9222222222	 DTS = 26926,9222222222
+PACK header 		nr. 924		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 809		Size :	5694 bytes	PTS = 26960,2888888889	 DTS = 26960,2888888889
+PACK header 		nr. 925		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 810		Size :	2162 bytes	PTS = 26993,6555555556	 DTS = 26993,6555555556
+PACK header 		nr. 926		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 811		Size :	2154 bytes	PTS = 27027,0222222222	 DTS = 27027,0222222222
+PACK header 		nr. 927		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 812		Size :	2038 bytes	PTS = 27060,3888888889	 DTS = 27060,3888888889
+PACK header 		nr. 928		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 813		Size :	1706 bytes	PTS = 27093,7555555556	 DTS = 27093,7555555556
+PACK header 		nr. 929		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 814		Size :	1718 bytes	PTS = 27127,1222222222	 DTS = 27127,1222222222
+PACK header 		nr. 930		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 815		Size :	3118 bytes	PTS = 27160,4888888889	 DTS = 27160,4888888889
+PACK header 		nr. 931		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 816		Size :	1502 bytes	PTS = 27193,8555555556	 DTS = 27193,8555555556
+PACK header 		nr. 932		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 817		Size :	926 bytes	PTS = 27227,2222222222	 DTS = 27227,2222222222
+PACK header 		nr. 933		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 818		Size :	522 bytes	PTS = 27260,5888888889	 DTS = 27260,5888888889
+PACK header 		nr. 934		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 819		Size :	954 bytes	PTS = 27293,9555555556	 DTS = 27293,9555555556
+PACK header 		nr. 935		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 820		Size :	998 bytes	PTS = 27327,3222222222	 DTS = 27327,3222222222
+PACK header 		nr. 936		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 821		Size :	422 bytes	PTS = 27360,6888888889	 DTS = 27360,6888888889
+PACK header 		nr. 937		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 822		Size :	934 bytes	PTS = 27394,0555555556	 DTS = 27394,0555555556
+PACK header 		nr. 938		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 823		Size :	930 bytes	PTS = 27427,4222222222	 DTS = 27427,4222222222
+PACK header 		nr. 939		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 824		Size :	5062 bytes	PTS = 27460,7888888889	 DTS = 27460,7888888889
+PACK header 		nr. 940		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 825		Size :	954 bytes	PTS = 27494,1555555556	 DTS = 27494,1555555556
+PACK header 		nr. 941		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 826		Size :	950 bytes	PTS = 27527,5222222222	 DTS = 27527,5222222222
+PACK header 		nr. 942		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 827		Size :	422 bytes	PTS = 27560,8888888889	 DTS = 27560,8888888889
+PACK header 		nr. 943		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 828		Size :	966 bytes	PTS = 27594,2555555556	 DTS = 27594,2555555556
+PACK header 		nr. 944		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 829		Size :	1098 bytes	PTS = 27627,6222222222	 DTS = 27627,6222222222
+PACK header 		nr. 945		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 830		Size :	490 bytes	PTS = 27660,9888888889	 DTS = 27660,9888888889
+PACK header 		nr. 946		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 831		Size :	986 bytes	PTS = 27694,3555555556	 DTS = 27694,3555555556
+PACK header 		nr. 947		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 832		Size :	1030 bytes	PTS = 27727,7222222222	 DTS = 27727,7222222222
+PACK header 		nr. 948		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 833		Size :	454 bytes	PTS = 27761,0888888889	 DTS = 27761,0888888889
+PACK header 		nr. 949		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 834		Size :	1062 bytes	PTS = 27794,4555555556	 DTS = 27794,4555555556
+PACK header 		nr. 950		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 835		Size :	1006 bytes	PTS = 27827,8222222222	 DTS = 27827,8222222222
+PACK header 		nr. 951		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 836		Size :	458 bytes	PTS = 27861,1888888889	 DTS = 27861,1888888889
+PACK header 		nr. 952		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 837		Size :	1062 bytes	PTS = 27894,5555555556	 DTS = 27894,5555555556
+PACK header 		nr. 953		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 838		Size :	1046 bytes	PTS = 27927,9222222222	 DTS = 27927,9222222222
+PACK header 		nr. 954		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 839		Size :	5046 bytes	PTS = 27961,2888888889	 DTS = 27961,2888888889
+PACK header 		nr. 955		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 840		Size :	994 bytes	PTS = 27994,6555555556	 DTS = 27994,6555555556
+PACK header 		nr. 956		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 841		Size :	1030 bytes	PTS = 28028,0222222222	 DTS = 28028,0222222222
+PACK header 		nr. 957		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 842		Size :	482 bytes	PTS = 28061,3888888889	 DTS = 28061,3888888889
+PACK header 		nr. 958		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 843		Size :	1062 bytes	PTS = 28094,7555555556	 DTS = 28094,7555555556
+PACK header 		nr. 959		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 844		Size :	1022 bytes	PTS = 28128,1222222222	 DTS = 28128,1222222222
+PACK header 		nr. 960		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 845		Size :	482 bytes	PTS = 28161,4888888889	 DTS = 28161,4888888889
+PACK header 		nr. 961		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 846		Size :	1046 bytes	PTS = 28194,8555555556	 DTS = 28194,8555555556
+PACK header 		nr. 962		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 847		Size :	1062 bytes	PTS = 28228,2222222222	 DTS = 28228,2222222222
+PACK header 		nr. 963		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 848		Size :	486 bytes	PTS = 28261,5888888889	 DTS = 28261,5888888889
+PACK header 		nr. 964		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 849		Size :	1062 bytes	PTS = 28294,9555555556	 DTS = 28294,9555555556
+PACK header 		nr. 965		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 850		Size :	1118 bytes	PTS = 28328,3222222222	 DTS = 28328,3222222222
+PACK header 		nr. 966		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 851		Size :	662 bytes	PTS = 28361,6888888889	 DTS = 28361,6888888889
+PACK header 		nr. 967		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 852		Size :	1062 bytes	PTS = 28395,0555555556	 DTS = 28395,0555555556
+PACK header 		nr. 968		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 853		Size :	1094 bytes	PTS = 28428,4222222222	 DTS = 28428,4222222222
+PACK header 		nr. 969		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 854		Size :	5118 bytes	PTS = 28461,7888888889	 DTS = 28461,7888888889
+PACK header 		nr. 970		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 855		Size :	1134 bytes	PTS = 28495,1555555556	 DTS = 28495,1555555556
+PACK header 		nr. 971		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 856		Size :	1086 bytes	PTS = 28528,5222222222	 DTS = 28528,5222222222
+PACK header 		nr. 972		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 857		Size :	754 bytes	PTS = 28561,8888888889	 DTS = 28561,8888888889
+PACK header 		nr. 973		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 858		Size :	1086 bytes	PTS = 28595,2555555556	 DTS = 28595,2555555556
+PACK header 		nr. 974		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 859		Size :	1162 bytes	PTS = 28628,6222222222	 DTS = 28628,6222222222
+PACK header 		nr. 975		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 860		Size :	870 bytes	PTS = 28661,9888888889	 DTS = 28661,9888888889
+PACK header 		nr. 976		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 861		Size :	1138 bytes	PTS = 28695,3555555556	 DTS = 28695,3555555556
+PACK header 		nr. 977		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 862		Size :	1178 bytes	PTS = 28728,7222222222	 DTS = 28728,7222222222
+PACK header 		nr. 978		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 863		Size :	882 bytes	PTS = 28762,0888888889	 DTS = 28762,0888888889
+PACK header 		nr. 979		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 864		Size :	1162 bytes	PTS = 28795,4555555556	 DTS = 28795,4555555556
+PACK header 		nr. 980		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 865		Size :	1234 bytes	PTS = 28828,8222222222	 DTS = 28828,8222222222
+PACK header 		nr. 981		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 866		Size :	1146 bytes	PTS = 28862,1888888889	 DTS = 28862,1888888889
+PACK header 		nr. 982		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 867		Size :	1262 bytes	PTS = 28895,5555555556	 DTS = 28895,5555555556
+PACK header 		nr. 983		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 868		Size :	1182 bytes	PTS = 28928,9222222222	 DTS = 28928,9222222222
+PACK header 		nr. 984		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 869		Size :	5322 bytes	PTS = 28962,2888888889	 DTS = 28962,2888888889
+PACK header 		nr. 985		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 870		Size :	1218 bytes	PTS = 28995,6555555556	 DTS = 28995,6555555556
+PACK header 		nr. 986		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 871		Size :	1230 bytes	PTS = 29029,0222222222	 DTS = 29029,0222222222
+PACK header 		nr. 987		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 872		Size :	1102 bytes	PTS = 29062,3888888889	 DTS = 29062,3888888889
+PACK header 		nr. 988		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 873		Size :	1242 bytes	PTS = 29095,7555555556	 DTS = 29095,7555555556
+PACK header 		nr. 989		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 874		Size :	1246 bytes	PTS = 29129,1222222222	 DTS = 29129,1222222222
+PACK header 		nr. 990		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 875		Size :	1154 bytes	PTS = 29162,4888888889	 DTS = 29162,4888888889
+PACK header 		nr. 991		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 876		Size :	1230 bytes	PTS = 29195,8555555556	 DTS = 29195,8555555556
+PACK header 		nr. 992		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 877		Size :	1338 bytes	PTS = 29229,2222222222	 DTS = 29229,2222222222
+PACK header 		nr. 993		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 878		Size :	1106 bytes	PTS = 29262,5888888889	 DTS = 29262,5888888889
+PACK header 		nr. 994		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 879		Size :	1350 bytes	PTS = 29295,9555555556	 DTS = 29295,9555555556
+PACK header 		nr. 995		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 880		Size :	1254 bytes	PTS = 29329,3222222222	 DTS = 29329,3222222222
+PACK header 		nr. 996		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 881		Size :	1238 bytes	PTS = 29362,6888888889	 DTS = 29362,6888888889
+PACK header 		nr. 997		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 882		Size :	1290 bytes	PTS = 29396,0555555556	 DTS = 29396,0555555556
+PACK header 		nr. 998		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 883		Size :	1306 bytes	PTS = 29429,4222222222	 DTS = 29429,4222222222
+PACK header 		nr. 999		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 884		Size :	5402 bytes	PTS = 29462,7888888889	 DTS = 29462,7888888889
+PACK header 		nr. 1000		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 885		Size :	1326 bytes	PTS = 29496,1555555556	 DTS = 29496,1555555556
+PACK header 		nr. 1001		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 886		Size :	1198 bytes	PTS = 29529,5222222222	 DTS = 29529,5222222222
+PACK header 		nr. 1002		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 887		Size :	862 bytes	PTS = 29562,8888888889	 DTS = 29562,8888888889
+PACK header 		nr. 1003		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 888		Size :	1286 bytes	PTS = 29596,2555555556	 DTS = 29596,2555555556
+PACK header 		nr. 1004		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 889		Size :	1210 bytes	PTS = 29629,6222222222	 DTS = 29629,6222222222
+PACK header 		nr. 1005		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 890		Size :	942 bytes	PTS = 29662,9888888889	 DTS = 29662,9888888889
+PACK header 		nr. 1006		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 891		Size :	1322 bytes	PTS = 29696,3555555556	 DTS = 29696,3555555556
+PACK header 		nr. 1007		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 892		Size :	1246 bytes	PTS = 29729,7222222222	 DTS = 29729,7222222222
+PACK header 		nr. 1008		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 893		Size :	910 bytes	PTS = 29763,0888888889	 DTS = 29763,0888888889
+PACK header 		nr. 1009		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 894		Size :	1170 bytes	PTS = 29796,4555555556	 DTS = 29796,4555555556
+PACK header 		nr. 1010		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 895		Size :	1242 bytes	PTS = 29829,8222222222	 DTS = 29829,8222222222
+PACK header 		nr. 1011		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 896		Size :	950 bytes	PTS = 29863,1888888889	 DTS = 29863,1888888889
+PACK header 		nr. 1012		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 897		Size :	1250 bytes	PTS = 29896,5555555556	 DTS = 29896,5555555556
+PACK header 		nr. 1013		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 898		Size :	1174 bytes	PTS = 29929,9222222222	 DTS = 29929,9222222222
+PACK header 		nr. 1014		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 899		Size :	5278 bytes	PTS = 29963,2888888889	 DTS = 29963,2888888889
+PACK header 		nr. 1015		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 900		Size :	1262 bytes	PTS = 29996,6555555556	 DTS = 29996,6555555556
+PACK header 		nr. 1016		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 901		Size :	1194 bytes	PTS = 30030,0222222222	 DTS = 30030,0222222222
+PACK header 		nr. 1017		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 902		Size :	766 bytes	PTS = 30063,3888888889	 DTS = 30063,3888888889
+PACK header 		nr. 1018		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 903		Size :	1194 bytes	PTS = 30096,7555555556	 DTS = 30096,7555555556
+PACK header 		nr. 1019		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 904		Size :	1154 bytes	PTS = 30130,1222222222	 DTS = 30130,1222222222
+PACK header 		nr. 1020		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 905		Size :	922 bytes	PTS = 30163,4888888889	 DTS = 30163,4888888889
+PACK header 		nr. 1021		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 906		Size :	1110 bytes	PTS = 30196,8555555556	 DTS = 30196,8555555556
+PACK header 		nr. 1022		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 907		Size :	1130 bytes	PTS = 30230,2222222222	 DTS = 30230,2222222222
+PACK header 		nr. 1023		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 908		Size :	910 bytes	PTS = 30263,5888888889	 DTS = 30263,5888888889
+PACK header 		nr. 1024		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 909		Size :	1238 bytes	PTS = 30296,9555555556	 DTS = 30296,9555555556
+PACK header 		nr. 1025		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 910		Size :	1166 bytes	PTS = 30330,3222222222	 DTS = 30330,3222222222
+PACK header 		nr. 1026		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 911		Size :	4146 bytes	PTS = 30363,6888888889	 DTS = 30363,6888888889
+PACK header 		nr. 1027		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 912		Size :	2318 bytes	PTS = 30397,0555555556	 DTS = 30397,0555555556
+PACK header 		nr. 1028		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 913		Size :	2434 bytes	PTS = 30430,4222222222	 DTS = 30430,4222222222
+PACK header 		nr. 1029		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 914		Size :	6378 bytes	PTS = 30463,7888888889	 DTS = 30463,7888888889
+PACK header 		nr. 1030		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 915		Size :	3482 bytes	PTS = 30497,1555555556	 DTS = 30497,1555555556
+PACK header 		nr. 1031		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 916		Size :	3778 bytes	PTS = 30530,5222222222	 DTS = 30530,5222222222
+PACK header 		nr. 1032		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 917		Size :	3490 bytes	PTS = 30563,8888888889	 DTS = 30563,8888888889
+PACK header 		nr. 1033		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 918		Size :	3342 bytes	PTS = 30597,2555555556	 DTS = 30597,2555555556
+PACK header 		nr. 1034		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 919		Size :	2358 bytes	PTS = 30630,6222222222	 DTS = 30630,6222222222
+PACK header 		nr. 1035		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 920		Size :	3718 bytes	PTS = 30663,9888888889	 DTS = 30663,9888888889
+PACK header 		nr. 1036		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 921		Size :	2738 bytes	PTS = 30697,3555555556	 DTS = 30697,3555555556
+PACK header 		nr. 1037		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 922		Size :	3334 bytes	PTS = 30730,7222222222	 DTS = 30730,7222222222
+PACK header 		nr. 1038		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 923		Size :	4538 bytes	PTS = 30764,0888888889	 DTS = 30764,0888888889
+PACK header 		nr. 1039		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 924		Size :	3374 bytes	PTS = 30797,4555555556	 DTS = 30797,4555555556
+PACK header 		nr. 1040		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 925		Size :	3926 bytes	PTS = 30830,8222222222	 DTS = 30830,8222222222
+PACK header 		nr. 1041		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 926		Size :	3478 bytes	PTS = 30864,1888888889	 DTS = 30864,1888888889
+PACK header 		nr. 1042		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 927		Size :	4870 bytes	PTS = 30897,5555555556	 DTS = 30897,5555555556
+PACK header 		nr. 1043		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 928		Size :	5234 bytes	PTS = 30930,9222222222	 DTS = 30930,9222222222
+PACK header 		nr. 1044		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 929		Size :	5398 bytes	PTS = 30964,2888888889	 DTS = 30964,2888888889
+PACK header 		nr. 1045		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 930		Size :	1298 bytes	PTS = 30997,6555555556	 DTS = 30997,6555555556
+PACK header 		nr. 1046		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 931		Size :	1374 bytes	PTS = 31031,0222222222	 DTS = 31031,0222222222
+PACK header 		nr. 1047		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 932		Size :	1386 bytes	PTS = 31064,3888888889	 DTS = 31064,3888888889
+PACK header 		nr. 1048		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 933		Size :	1290 bytes	PTS = 31097,7555555556	 DTS = 31097,7555555556
+PACK header 		nr. 1049		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 934		Size :	1234 bytes	PTS = 31131,1222222222	 DTS = 31131,1222222222
+PACK header 		nr. 1050		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 935		Size :	946 bytes	PTS = 31164,4888888889	 DTS = 31164,4888888889
+PACK header 		nr. 1051		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 936		Size :	1174 bytes	PTS = 31197,8555555556	 DTS = 31197,8555555556
+PACK header 		nr. 1052		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 937		Size :	1262 bytes	PTS = 31231,2222222222	 DTS = 31231,2222222222
+PACK header 		nr. 1053		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 938		Size :	1118 bytes	PTS = 31264,5888888889	 DTS = 31264,5888888889
+PACK header 		nr. 1054		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 939		Size :	1218 bytes	PTS = 31297,9555555556	 DTS = 31297,9555555556
+PACK header 		nr. 1055		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 940		Size :	1182 bytes	PTS = 31331,3222222222	 DTS = 31331,3222222222
+PACK header 		nr. 1056		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 941		Size :	1230 bytes	PTS = 31364,6888888889	 DTS = 31364,6888888889
+PACK header 		nr. 1057		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 942		Size :	1254 bytes	PTS = 31398,0555555556	 DTS = 31398,0555555556
+PACK header 		nr. 1058		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 943		Size :	1322 bytes	PTS = 31431,4222222222	 DTS = 31431,4222222222
+PACK header 		nr. 1059		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 944		Size :	5478 bytes	PTS = 31464,7888888889	 DTS = 31464,7888888889
+PACK header 		nr. 1060		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 945		Size :	1346 bytes	PTS = 31498,1555555556	 DTS = 31498,1555555556
+PACK header 		nr. 1061		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 946		Size :	1282 bytes	PTS = 31531,5222222222	 DTS = 31531,5222222222
+PACK header 		nr. 1062		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 947		Size :	1606 bytes	PTS = 31564,8888888889	 DTS = 31564,8888888889
+PACK header 		nr. 1063		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 948		Size :	1550 bytes	PTS = 31598,2555555556	 DTS = 31598,2555555556
+PACK header 		nr. 1064		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 949		Size :	1498 bytes	PTS = 31631,6222222222	 DTS = 31631,6222222222
+PACK header 		nr. 1065		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 950		Size :	1782 bytes	PTS = 31664,9888888889	 DTS = 31664,9888888889
+PACK header 		nr. 1066		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 951		Size :	1670 bytes	PTS = 31698,3555555556	 DTS = 31698,3555555556
+PACK header 		nr. 1067		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 952		Size :	2038 bytes	PTS = 31731,7222222222	 DTS = 31731,7222222222
+PACK header 		nr. 1068		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 953		Size :	1422 bytes	PTS = 31765,0888888889	 DTS = 31765,0888888889
+PACK header 		nr. 1069		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 954		Size :	1922 bytes	PTS = 31798,4555555556	 DTS = 31798,4555555556
+PACK header 		nr. 1070		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 955		Size :	1254 bytes	PTS = 31831,8222222222	 DTS = 31831,8222222222
+PACK header 		nr. 1071		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 956		Size :	1430 bytes	PTS = 31865,1888888889	 DTS = 31865,1888888889
+PACK header 		nr. 1072		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 957		Size :	1242 bytes	PTS = 31898,5555555556	 DTS = 31898,5555555556
+PACK header 		nr. 1073		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 958		Size :	1294 bytes	PTS = 31931,9222222222	 DTS = 31931,9222222222
+PACK header 		nr. 1074		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 959		Size :	3978 bytes	PTS = 31965,2888888889	 DTS = 31965,2888888889
+PACK header 		nr. 1075		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 960		Size :	1722 bytes	PTS = 31998,6555555556	 DTS = 31998,6555555556
+PACK header 		nr. 1076		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 961		Size :	2754 bytes	PTS = 32032,0222222222	 DTS = 32032,0222222222
+PACK header 		nr. 1077		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 962		Size :	3842 bytes	PTS = 32065,3888888889	 DTS = 32065,3888888889
+PACK header 		nr. 1078		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 963		Size :	834 bytes	PTS = 32098,7555555556	 DTS = 32098,7555555556
+PACK header 		nr. 1079		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 964		Size :	1146 bytes	PTS = 32132,1222222222	 DTS = 32132,1222222222
+PACK header 		nr. 1080		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 965		Size :	602 bytes	PTS = 32165,4888888889	 DTS = 32165,4888888889
+PACK header 		nr. 1081		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 966		Size :	1014 bytes	PTS = 32198,8555555556	 DTS = 32198,8555555556
+PACK header 		nr. 1082		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 967		Size :	1038 bytes	PTS = 32232,2222222222	 DTS = 32232,2222222222
+PACK header 		nr. 1083		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 968		Size :	630 bytes	PTS = 32265,5888888889	 DTS = 32265,5888888889
+PACK header 		nr. 1084		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 969		Size :	1082 bytes	PTS = 32298,9555555556	 DTS = 32298,9555555556
+PACK header 		nr. 1085		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 970		Size :	1058 bytes	PTS = 32332,3222222222	 DTS = 32332,3222222222
+PACK header 		nr. 1086		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 971		Size :	6782 bytes	PTS = 32365,6888888889	 DTS = 32365,6888888889
+PACK header 		nr. 1087		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 972		Size :	4246 bytes	PTS = 32399,0555555556	 DTS = 32399,0555555556
+PACK header 		nr. 1088		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 973		Size :	2746 bytes	PTS = 32432,4222222222	 DTS = 32432,4222222222
+PACK header 		nr. 1089		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 974		Size :	7730 bytes	PTS = 32465,7888888889	 DTS = 32465,7888888889
+PACK header 		nr. 1090		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 975		Size :	2230 bytes	PTS = 32499,1555555556	 DTS = 32499,1555555556
+PACK header 		nr. 1091		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 976		Size :	2026 bytes	PTS = 32532,5222222222	 DTS = 32532,5222222222
+PACK header 		nr. 1092		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 977		Size :	5666 bytes	PTS = 32565,8888888889	 DTS = 32565,8888888889
+PACK header 		nr. 1093		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 978		Size :	1398 bytes	PTS = 32599,2555555556	 DTS = 32599,2555555556
+PACK header 		nr. 1094		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 979		Size :	3786 bytes	PTS = 32632,6222222222	 DTS = 32632,6222222222
+PACK header 		nr. 1095		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 980		Size :	4870 bytes	PTS = 32665,9888888889	 DTS = 32665,9888888889
+PACK header 		nr. 1096		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 981		Size :	3298 bytes	PTS = 32699,3555555556	 DTS = 32699,3555555556
+PACK header 		nr. 1097		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 982		Size :	2750 bytes	PTS = 32732,7222222222	 DTS = 32732,7222222222
+PACK header 		nr. 1098		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 983		Size :	3434 bytes	PTS = 32766,0888888889	 DTS = 32766,0888888889
+PACK header 		nr. 1099		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 984		Size :	1994 bytes	PTS = 32799,4555555556	 DTS = 32799,4555555556
+PACK header 		nr. 1100		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 985		Size :	1882 bytes	PTS = 32832,8222222222	 DTS = 32832,8222222222
+PACK header 		nr. 1101		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 986		Size :	2942 bytes	PTS = 32866,1888888889	 DTS = 32866,1888888889
+PACK header 		nr. 1102		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 987		Size :	1474 bytes	PTS = 32899,5555555556	 DTS = 32899,5555555556
+PACK header 		nr. 1103		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 988		Size :	1730 bytes	PTS = 32932,9222222222	 DTS = 32932,9222222222
+PACK header 		nr. 1104		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 989		Size :	8434 bytes	PTS = 32966,2888888889	 DTS = 32966,2888888889
+PACK header 		nr. 1105		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 990		Size :	1702 bytes	PTS = 32999,6555555556	 DTS = 32999,6555555556
+PACK header 		nr. 1106		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 991		Size :	1514 bytes	PTS = 33033,0222222222	 DTS = 33033,0222222222
+PACK header 		nr. 1107		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 992		Size :	2566 bytes	PTS = 33066,3888888889	 DTS = 33066,3888888889
+PACK header 		nr. 1108		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 993		Size :	2094 bytes	PTS = 33099,7555555556	 DTS = 33099,7555555556
+PACK header 		nr. 1109		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 994		Size :	1814 bytes	PTS = 33133,1222222222	 DTS = 33133,1222222222
+PACK header 		nr. 1110		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 995		Size :	2366 bytes	PTS = 33166,4888888889	 DTS = 33166,4888888889
+PACK header 		nr. 1111		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 996		Size :	1906 bytes	PTS = 33199,8555555556	 DTS = 33199,8555555556
+PACK header 		nr. 1112		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 997		Size :	1794 bytes	PTS = 33233,2222222222	 DTS = 33233,2222222222
+PACK header 		nr. 1113		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 998		Size :	2646 bytes	PTS = 33266,5888888889	 DTS = 33266,5888888889
+PACK header 		nr. 1114		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 999		Size :	1806 bytes	PTS = 33299,9555555556	 DTS = 33299,9555555556
+PACK header 		nr. 1115		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1000		Size :	2086 bytes	PTS = 33333,3222222222	 DTS = 33333,3222222222
+PACK header 		nr. 1116		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1001		Size :	2942 bytes	PTS = 33366,7	 DTS = 33366,7
+PACK header 		nr. 1117		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1002		Size :	1622 bytes	PTS = 33400,0666666667	 DTS = 33400,0666666667
+PACK header 		nr. 1118		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1003		Size :	1922 bytes	PTS = 33433,4333333333	 DTS = 33433,4333333333
+PACK header 		nr. 1119		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1004		Size :	8642 bytes	PTS = 33466,8	 DTS = 33466,8
+PACK header 		nr. 1120		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1005		Size :	1450 bytes	PTS = 33500,1666666667	 DTS = 33500,1666666667
+PACK header 		nr. 1121		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1006		Size :	1654 bytes	PTS = 33533,5333333333	 DTS = 33533,5333333333
+PACK header 		nr. 1122		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1007		Size :	2274 bytes	PTS = 33566,9	 DTS = 33566,9
+PACK header 		nr. 1123		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1008		Size :	1670 bytes	PTS = 33600,2666666667	 DTS = 33600,2666666667
+PACK header 		nr. 1124		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1009		Size :	1374 bytes	PTS = 33633,6333333333	 DTS = 33633,6333333333
+PACK header 		nr. 1125		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1010		Size :	2918 bytes	PTS = 33667	 DTS = 33667
+PACK header 		nr. 1126		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1011		Size :	1706 bytes	PTS = 33700,3666666667	 DTS = 33700,3666666667
+PACK header 		nr. 1127		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1012		Size :	1854 bytes	PTS = 33733,7333333333	 DTS = 33733,7333333333
+PACK header 		nr. 1128		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1013		Size :	3270 bytes	PTS = 33767,1	 DTS = 33767,1
+PACK header 		nr. 1129		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1014		Size :	1782 bytes	PTS = 33800,4666666667	 DTS = 33800,4666666667
+PACK header 		nr. 1130		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1015		Size :	2446 bytes	PTS = 33833,8333333333	 DTS = 33833,8333333333
+PACK header 		nr. 1131		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1016		Size :	3890 bytes	PTS = 33867,2	 DTS = 33867,2
+PACK header 		nr. 1132		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1017		Size :	2302 bytes	PTS = 33900,5666666667	 DTS = 33900,5666666667
+PACK header 		nr. 1133		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1018		Size :	2634 bytes	PTS = 33933,9333333333	 DTS = 33933,9333333333
+PACK header 		nr. 1134		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1019		Size :	9514 bytes	PTS = 33967,3	 DTS = 33967,3
+PACK header 		nr. 1135		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1020		Size :	2438 bytes	PTS = 34000,6666666667	 DTS = 34000,6666666667
+PACK header 		nr. 1136		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1021		Size :	2246 bytes	PTS = 34034,0333333333	 DTS = 34034,0333333333
+PACK header 		nr. 1137		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1022		Size :	3150 bytes	PTS = 34067,4	 DTS = 34067,4
+PACK header 		nr. 1138		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1023		Size :	2162 bytes	PTS = 34100,7666666667	 DTS = 34100,7666666667
+PACK header 		nr. 1139		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1024		Size :	2022 bytes	PTS = 34134,1333333333	 DTS = 34134,1333333333
+PACK header 		nr. 1140		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1025		Size :	2978 bytes	PTS = 34167,5	 DTS = 34167,5
+PACK header 		nr. 1141		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1026		Size :	2154 bytes	PTS = 34200,8666666667	 DTS = 34200,8666666667
+PACK header 		nr. 1142		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1027		Size :	1770 bytes	PTS = 34234,2333333333	 DTS = 34234,2333333333
+PACK header 		nr. 1143		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1028		Size :	3174 bytes	PTS = 34267,6	 DTS = 34267,6
+PACK header 		nr. 1144		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1029		Size :	2094 bytes	PTS = 34300,9666666667	 DTS = 34300,9666666667
+PACK header 		nr. 1145		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1030		Size :	2030 bytes	PTS = 34334,3333333333	 DTS = 34334,3333333333
+PACK header 		nr. 1146		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1031		Size :	2242 bytes	PTS = 34367,7	 DTS = 34367,7
+PACK header 		nr. 1147		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1032		Size :	1470 bytes	PTS = 34401,0666666667	 DTS = 34401,0666666667
+PACK header 		nr. 1148		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1033		Size :	2146 bytes	PTS = 34434,4333333333	 DTS = 34434,4333333333
+PACK header 		nr. 1149		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1034		Size :	10606 bytes	PTS = 34467,8	 DTS = 34467,8
+PACK header 		nr. 1150		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1035		Size :	1754 bytes	PTS = 34501,1666666667	 DTS = 34501,1666666667
+PACK header 		nr. 1151		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1036		Size :	1738 bytes	PTS = 34534,5333333333	 DTS = 34534,5333333333
+PACK header 		nr. 1152		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1037		Size :	2362 bytes	PTS = 34567,9	 DTS = 34567,9
+PACK header 		nr. 1153		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1038		Size :	1310 bytes	PTS = 34601,2666666667	 DTS = 34601,2666666667
+PACK header 		nr. 1154		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1039		Size :	1598 bytes	PTS = 34634,6333333333	 DTS = 34634,6333333333
+PACK header 		nr. 1155		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1040		Size :	2090 bytes	PTS = 34668	 DTS = 34668
+PACK header 		nr. 1156		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1041		Size :	1634 bytes	PTS = 34701,3666666667	 DTS = 34701,3666666667
+PACK header 		nr. 1157		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1042		Size :	1422 bytes	PTS = 34734,7333333333	 DTS = 34734,7333333333
+PACK header 		nr. 1158		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1043		Size :	2274 bytes	PTS = 34768,1	 DTS = 34768,1
+PACK header 		nr. 1159		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1044		Size :	1562 bytes	PTS = 34801,4666666667	 DTS = 34801,4666666667
+PACK header 		nr. 1160		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1045		Size :	1450 bytes	PTS = 34834,8333333333	 DTS = 34834,8333333333
+PACK header 		nr. 1161		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1046		Size :	1530 bytes	PTS = 34868,2	 DTS = 34868,2
+PACK header 		nr. 1162		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1047		Size :	1354 bytes	PTS = 34901,5666666667	 DTS = 34901,5666666667
+PACK header 		nr. 1163		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1048		Size :	1426 bytes	PTS = 34934,9333333333	 DTS = 34934,9333333333
+PACK header 		nr. 1164		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1049		Size :	11014 bytes	PTS = 34968,3	 DTS = 34968,3
+PACK header 		nr. 1165		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1050		Size :	1258 bytes	PTS = 35001,6666666667	 DTS = 35001,6666666667
+PACK header 		nr. 1166		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1051		Size :	1382 bytes	PTS = 35035,0333333333	 DTS = 35035,0333333333
+PACK header 		nr. 1167		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1052		Size :	1434 bytes	PTS = 35068,4	 DTS = 35068,4
+PACK header 		nr. 1168		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1053		Size :	1806 bytes	PTS = 35101,7666666667	 DTS = 35101,7666666667
+PACK header 		nr. 1169		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1054		Size :	1494 bytes	PTS = 35135,1333333333	 DTS = 35135,1333333333
+PACK header 		nr. 1170		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1055		Size :	1590 bytes	PTS = 35168,5	 DTS = 35168,5
+PACK header 		nr. 1171		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1056		Size :	1474 bytes	PTS = 35201,8666666667	 DTS = 35201,8666666667
+PACK header 		nr. 1172		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1057		Size :	1430 bytes	PTS = 35235,2333333333	 DTS = 35235,2333333333
+PACK header 		nr. 1173		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1058		Size :	1594 bytes	PTS = 35268,6	 DTS = 35268,6
+PACK header 		nr. 1174		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1059		Size :	1330 bytes	PTS = 35301,9666666667	 DTS = 35301,9666666667
+PACK header 		nr. 1175		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1060		Size :	2050 bytes	PTS = 35335,3333333333	 DTS = 35335,3333333333
+PACK header 		nr. 1176		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1061		Size :	1978 bytes	PTS = 35368,7	 DTS = 35368,7
+PACK header 		nr. 1177		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1062		Size :	1146 bytes	PTS = 35402,0666666667	 DTS = 35402,0666666667
+PACK header 		nr. 1178		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1063		Size :	1878 bytes	PTS = 35435,4333333333	 DTS = 35435,4333333333
+PACK header 		nr. 1179		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1064		Size :	10898 bytes	PTS = 35468,8	 DTS = 35468,8
+PACK header 		nr. 1180		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1065		Size :	1174 bytes	PTS = 35502,1666666667	 DTS = 35502,1666666667
+PACK header 		nr. 1181		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1066		Size :	1074 bytes	PTS = 35535,5333333333	 DTS = 35535,5333333333
+PACK header 		nr. 1182		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1067		Size :	1522 bytes	PTS = 35568,9	 DTS = 35568,9
+PACK header 		nr. 1183		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1068		Size :	1338 bytes	PTS = 35602,2666666667	 DTS = 35602,2666666667
+PACK header 		nr. 1184		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1069		Size :	1358 bytes	PTS = 35635,6333333333	 DTS = 35635,6333333333
+PACK header 		nr. 1185		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1070		Size :	1894 bytes	PTS = 35669	 DTS = 35669
+PACK header 		nr. 1186		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1071		Size :	1322 bytes	PTS = 35702,3666666667	 DTS = 35702,3666666667
+PACK header 		nr. 1187		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1072		Size :	1614 bytes	PTS = 35735,7333333333	 DTS = 35735,7333333333
+PACK header 		nr. 1188		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1073		Size :	1554 bytes	PTS = 35769,1	 DTS = 35769,1
+PACK header 		nr. 1189		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1074		Size :	1550 bytes	PTS = 35802,4666666667	 DTS = 35802,4666666667
+PACK header 		nr. 1190		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1075		Size :	1530 bytes	PTS = 35835,8333333333	 DTS = 35835,8333333333
+PACK header 		nr. 1191		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1076		Size :	1830 bytes	PTS = 35869,2	 DTS = 35869,2
+PACK header 		nr. 1192		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1077		Size :	1246 bytes	PTS = 35902,5666666667	 DTS = 35902,5666666667
+PACK header 		nr. 1193		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1078		Size :	1522 bytes	PTS = 35935,9333333333	 DTS = 35935,9333333333
+PACK header 		nr. 1194		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1079		Size :	10726 bytes	PTS = 35969,3	 DTS = 35969,3
+PACK header 		nr. 1195		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1080		Size :	1350 bytes	PTS = 36002,6666666667	 DTS = 36002,6666666667
+PACK header 		nr. 1196		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1081		Size :	1490 bytes	PTS = 36036,0333333333	 DTS = 36036,0333333333
+PACK header 		nr. 1197		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1082		Size :	1594 bytes	PTS = 36069,4	 DTS = 36069,4
+PACK header 		nr. 1198		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1083		Size :	1170 bytes	PTS = 36102,7666666667	 DTS = 36102,7666666667
+PACK header 		nr. 1199		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1084		Size :	1486 bytes	PTS = 36136,1333333333	 DTS = 36136,1333333333
+PACK header 		nr. 1200		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1085		Size :	1270 bytes	PTS = 36169,5	 DTS = 36169,5
+PACK header 		nr. 1201		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1086		Size :	1254 bytes	PTS = 36202,8666666667	 DTS = 36202,8666666667
+PACK header 		nr. 1202		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1087		Size :	1418 bytes	PTS = 36236,2333333333	 DTS = 36236,2333333333
+PACK header 		nr. 1203		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1088		Size :	1394 bytes	PTS = 36269,6	 DTS = 36269,6
+PACK header 		nr. 1204		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1089		Size :	1494 bytes	PTS = 36302,9666666667	 DTS = 36302,9666666667
+PACK header 		nr. 1205		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1090		Size :	1578 bytes	PTS = 36336,3333333333	 DTS = 36336,3333333333
+PACK header 		nr. 1206		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1091		Size :	1266 bytes	PTS = 36369,7	 DTS = 36369,7
+PACK header 		nr. 1207		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1092		Size :	1518 bytes	PTS = 36403,0666666667	 DTS = 36403,0666666667
+PACK header 		nr. 1208		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1093		Size :	1810 bytes	PTS = 36436,4333333333	 DTS = 36436,4333333333
+PACK header 		nr. 1209		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1094		Size :	10906 bytes	PTS = 36469,8	 DTS = 36469,8
+PACK header 		nr. 1210		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1095		Size :	1418 bytes	PTS = 36503,1666666667	 DTS = 36503,1666666667
+PACK header 		nr. 1211		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1096		Size :	1618 bytes	PTS = 36536,5333333333	 DTS = 36536,5333333333
+PACK header 		nr. 1212		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1097		Size :	1522 bytes	PTS = 36569,9	 DTS = 36569,9
+PACK header 		nr. 1213		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1098		Size :	1598 bytes	PTS = 36603,2666666667	 DTS = 36603,2666666667
+PACK header 		nr. 1214		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1099		Size :	1490 bytes	PTS = 36636,6333333333	 DTS = 36636,6333333333
+PACK header 		nr. 1215		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1100		Size :	1902 bytes	PTS = 36670	 DTS = 36670
+PACK header 		nr. 1216		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1101		Size :	1482 bytes	PTS = 36703,3666666667	 DTS = 36703,3666666667
+PACK header 		nr. 1217		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1102		Size :	1406 bytes	PTS = 36736,7333333333	 DTS = 36736,7333333333
+PACK header 		nr. 1218		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1103		Size :	1622 bytes	PTS = 36770,1	 DTS = 36770,1
+PACK header 		nr. 1219		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1104		Size :	1378 bytes	PTS = 36803,4666666667	 DTS = 36803,4666666667
+PACK header 		nr. 1220		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1105		Size :	1534 bytes	PTS = 36836,8333333333	 DTS = 36836,8333333333
+PACK header 		nr. 1221		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1106		Size :	1194 bytes	PTS = 36870,2	 DTS = 36870,2
+PACK header 		nr. 1222		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1107		Size :	1214 bytes	PTS = 36903,5666666667	 DTS = 36903,5666666667
+PACK header 		nr. 1223		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1108		Size :	1302 bytes	PTS = 36936,9333333333	 DTS = 36936,9333333333
+PACK header 		nr. 1224		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1109		Size :	10970 bytes	PTS = 36970,3	 DTS = 36970,3
+PACK header 		nr. 1225		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1110		Size :	1478 bytes	PTS = 37003,6666666667	 DTS = 37003,6666666667
+PACK header 		nr. 1226		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1111		Size :	1110 bytes	PTS = 37037,0333333333	 DTS = 37037,0333333333
+PACK header 		nr. 1227		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1112		Size :	2738 bytes	PTS = 37070,4	 DTS = 37070,4
+PACK header 		nr. 1228		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1113		Size :	1442 bytes	PTS = 37103,7666666667	 DTS = 37103,7666666667
+PACK header 		nr. 1229		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1114		Size :	1506 bytes	PTS = 37137,1333333333	 DTS = 37137,1333333333
+PACK header 		nr. 1230		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1115		Size :	5574 bytes	PTS = 37170,5	 DTS = 37170,5
+PACK header 		nr. 1231		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1116		Size :	5706 bytes	PTS = 37203,8666666667	 DTS = 37203,8666666667
+PACK header 		nr. 1232		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1117		Size :	5002 bytes	PTS = 37237,2333333333	 DTS = 37237,2333333333
+PACK header 		nr. 1233		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1118		Size :	5402 bytes	PTS = 37270,6	 DTS = 37270,6
+PACK header 		nr. 1234		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1119		Size :	2910 bytes	PTS = 37303,9666666667	 DTS = 37303,9666666667
+PACK header 		nr. 1235		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1120		Size :	2526 bytes	PTS = 37337,3333333333	 DTS = 37337,3333333333
+PACK header 		nr. 1236		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1121		Size :	5646 bytes	PTS = 37370,7	 DTS = 37370,7
+PACK header 		nr. 1237		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1122		Size :	2658 bytes	PTS = 37404,0666666667	 DTS = 37404,0666666667
+PACK header 		nr. 1238		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1123		Size :	3594 bytes	PTS = 37437,4333333333	 DTS = 37437,4333333333
+PACK header 		nr. 1239		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1124		Size :	9666 bytes	PTS = 37470,8	 DTS = 37470,8
+PACK header 		nr. 1240		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1125		Size :	782 bytes	PTS = 37504,1666666667	 DTS = 37504,1666666667
+PACK header 		nr. 1241		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1126		Size :	782 bytes	PTS = 37537,5333333333	 DTS = 37537,5333333333
+PACK header 		nr. 1242		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1127		Size :	250 bytes	PTS = 37570,9	 DTS = 37570,9
+PACK header 		nr. 1243		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1128		Size :	754 bytes	PTS = 37604,2666666667	 DTS = 37604,2666666667
+PACK header 		nr. 1244		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1129		Size :	754 bytes	PTS = 37637,6333333333	 DTS = 37637,6333333333
+PACK header 		nr. 1245		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1130		Size :	166 bytes	PTS = 37671	 DTS = 37671
+PACK header 		nr. 1246		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1131		Size :	742 bytes	PTS = 37704,3666666667	 DTS = 37704,3666666667
+PACK header 		nr. 1247		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1132		Size :	742 bytes	PTS = 37737,7333333333	 DTS = 37737,7333333333
+PACK header 		nr. 1248		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1133		Size :	166 bytes	PTS = 37771,1	 DTS = 37771,1
+PACK header 		nr. 1249		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1134		Size :	742 bytes	PTS = 37804,4666666667	 DTS = 37804,4666666667
+PACK header 		nr. 1250		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1135		Size :	742 bytes	PTS = 37837,8333333333	 DTS = 37837,8333333333
+PACK header 		nr. 1251		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1136		Size :	166 bytes	PTS = 37871,2	 DTS = 37871,2
+PACK header 		nr. 1252		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1137		Size :	742 bytes	PTS = 37904,5666666667	 DTS = 37904,5666666667
+PACK header 		nr. 1253		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1138		Size :	742 bytes	PTS = 37937,9333333333	 DTS = 37937,9333333333
+PACK header 		nr. 1254		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1139		Size :	9666 bytes	PTS = 37971,3	 DTS = 37971,3
+PACK header 		nr. 1255		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1140		Size :	750 bytes	PTS = 38004,6666666667	 DTS = 38004,6666666667
+PACK header 		nr. 1256		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1141		Size :	750 bytes	PTS = 38038,0333333333	 DTS = 38038,0333333333
+PACK header 		nr. 1257		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1142		Size :	250 bytes	PTS = 38071,4	 DTS = 38071,4
+PACK header 		nr. 1258		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1143		Size :	754 bytes	PTS = 38104,7666666667	 DTS = 38104,7666666667
+PACK header 		nr. 1259		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1144		Size :	754 bytes	PTS = 38138,1333333333	 DTS = 38138,1333333333
+PACK header 		nr. 1260		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1145		Size :	166 bytes	PTS = 38171,5	 DTS = 38171,5
+PACK header 		nr. 1261		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1146		Size :	742 bytes	PTS = 38204,8666666667	 DTS = 38204,8666666667
+PACK header 		nr. 1262		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1147		Size :	742 bytes	PTS = 38238,2333333333	 DTS = 38238,2333333333
+PACK header 		nr. 1263		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1148		Size :	1582 bytes	PTS = 38271,6	 DTS = 38271,6
+PACK header 		nr. 1264		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1149		Size :	714 bytes	PTS = 38304,9666666667	 DTS = 38304,9666666667
+PACK header 		nr. 1265		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1150		Size :	802 bytes	PTS = 38338,3333333333	 DTS = 38338,3333333333
+PACK header 		nr. 1266		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1151		Size :	3842 bytes	PTS = 38371,7	 DTS = 38371,7
+PACK header 		nr. 1267		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1152		Size :	1138 bytes	PTS = 38405,0666666667	 DTS = 38405,0666666667
+PACK header 		nr. 1268		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1153		Size :	1370 bytes	PTS = 38438,4333333333	 DTS = 38438,4333333333
+PACK header 		nr. 1269		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1154		Size :	6646 bytes	PTS = 38471,8	 DTS = 38471,8
+PACK header 		nr. 1270		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1155		Size :	1162 bytes	PTS = 38505,1666666667	 DTS = 38505,1666666667
+PACK header 		nr. 1271		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1156		Size :	1522 bytes	PTS = 38538,5333333333	 DTS = 38538,5333333333
+PACK header 		nr. 1272		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1157		Size :	2146 bytes	PTS = 38571,9	 DTS = 38571,9
+PACK header 		nr. 1273		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1158		Size :	1466 bytes	PTS = 38605,2666666667	 DTS = 38605,2666666667
+PACK header 		nr. 1274		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1159		Size :	1466 bytes	PTS = 38638,6333333333	 DTS = 38638,6333333333
+PACK header 		nr. 1275		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1160		Size :	478 bytes	PTS = 38672	 DTS = 38672
+PACK header 		nr. 1276		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1161		Size :	1274 bytes	PTS = 38705,3666666667	 DTS = 38705,3666666667
+PACK header 		nr. 1277		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1162		Size :	510 bytes	PTS = 38738,7333333333	 DTS = 38738,7333333333
+PACK header 		nr. 1278		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1163		Size :	166 bytes	PTS = 38772,1	 DTS = 38772,1
+PACK header 		nr. 1279		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1164		Size :	334 bytes	PTS = 38805,4666666667	 DTS = 38805,4666666667
+PACK header 		nr. 1280		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1165		Size :	330 bytes	PTS = 38838,8333333333	 DTS = 38838,8333333333
+PACK header 		nr. 1281		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1166		Size :	166 bytes	PTS = 38872,2	 DTS = 38872,2
+PACK header 		nr. 1282		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1167		Size :	334 bytes	PTS = 38905,5666666667	 DTS = 38905,5666666667
+PACK header 		nr. 1283		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1168		Size :	330 bytes	PTS = 38938,9333333333	 DTS = 38938,9333333333
+PACK header 		nr. 1284		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1169		Size :	3834 bytes	PTS = 38972,3	 DTS = 38972,3
+PACK header 		nr. 1285		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1170		Size :	270 bytes	PTS = 39005,6666666667	 DTS = 39005,6666666667
+PACK header 		nr. 1286		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1171		Size :	266 bytes	PTS = 39039,0333333333	 DTS = 39039,0333333333
+PACK header 		nr. 1287		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1172		Size :	166 bytes	PTS = 39072,4	 DTS = 39072,4
+PACK header 		nr. 1288		Size :	14 bytes	SCR = 39124,4374814815
+Video PES 		nr. 1173		Size :	202 bytes	PTS = 39105,7666666667	 DTS = 39105,7666666667
+PACK header 		nr. 1289		Size :	14 bytes	SCR = 39139,1390740741
+Video PES 		nr. 1174		Size :	202 bytes	PTS = 39139,1333333333	 DTS = 39139,1333333333
+MPEG_end packet reached
+File read completed ok...
+
+Statistic :
+-----------
+Pack headers     :  1289	   Total size : 18046 bytes
+System headers   :  1		   Total size : 18 bytes
+PSM packets      :  0		   Total size : 0 bytes
+Video packets    :  1174	   Total size : 2272440 bytes
+Audio packets    :  115		   Total size : 942562 bytes
+Other packets    :  0		   Total size : 0 bytes

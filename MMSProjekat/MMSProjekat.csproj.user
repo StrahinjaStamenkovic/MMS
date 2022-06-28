@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClampValuesInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GammaInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HueSaturationInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImageInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Threshold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
